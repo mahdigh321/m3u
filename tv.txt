@@ -1,0 +1,108 @@
+#EXTM3U
+
+#EXTINF:0, MBC2
+http://63.237.48.28/ios/MBC2/MBC2.m3u8
+#EXTINF:0, MBC 4
+http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
+#EXTINF:0, MBC Max
+http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0, MBC Action
+http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0, ONYX
+http://fluplus1.giniko.com/gemonyx/gemonyx/index.m3u8?token=6352d937dc2dbf60882bc701d2c2207386400
+#EXTINF:0, GEM TV
+http://fluplus1.giniko.com/gemtv/gemtv/index.m3u8?token=e96bd1de896a31653e7ab97eee119e5886400
+#EXTINF:0, GEM RIVER
+http://fluplus1.giniko.com/gemriver/gemriver/index.m3u8?token=87100b4fec0a5c6ea8337a98ebbaa91186400
+#EXTINF:0, GEM RUBIX
+http://fluplus1.giniko.com/gemrubix/gemrubix/index.m3u8?token=304127e6f5a69a9f8225b6ec8b3f7f5086400
+#EXTINF:0, GEM SERIES
+http://fluplus1.giniko.com/gemseries/gemseries/index.m3u8?token=cc84256a8e74bbc7c877db25dc56da2286400
+#EXTINF:0, GEM CLASSIC
+http://fluplus1.giniko.com/gemclassic/gemclassic/index.m3u8?token=817a6c35d1136292e73f5a69aee0b79b86400
+#EXTINF:0, GEM KURD
+http://fluplus1.giniko.com/gemkurd/gemkurd/index.m3u8?token=4ac49b3118cae475cd0650cee690563786400
+#EXTINF:0, GEM ONE
+http://nimlive1.giniko.com/gemtv/gemtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE2IDExOjM1OjUxIEFNJmhhc2hfdmFsdWU9d0dmaVZ3UitRUzFlYnhBUzZtMll4Zz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:0, GEM TEEN
+http://fluplus1.giniko.com/gemteen/gemteen/index.m3u8?token=2d94da8d7dc43e8b65a53529be6395e386400
+#EXTINF:0, GEM JUNIOR
+http://fluplus1.giniko.com/gemjunior/gemjunior/index.m3u8?token=337fdccdac06ba8e034408db12086cb686400
+#EXTINF:0, MIFA
+http://fluplus1.giniko.com/mifamusic/mifamusic/index.m3u8?token=91d7da4cf9fb5c07078bbe48ce0fb5b286400
+#EXTINF:0, GEM FOOD
+http://63.237.48.28/ios/ONYX/ONYX.m3u8
+#EXTINF:0, GEM LIFE
+http://fluplus1.giniko.com/gemlife/gemlife/index.m3u8?token=e8e5587c9c9a523253a299b1309c8f3086400
+#EXTINF:0, GEM SPORT
+http://fluplus1.giniko.com/gemst/gemst/index.m3u8?token=edf1db8cc9cf4aaf5c83ada1f432f11986400
+#EXTINF:0, GEM Bollywood
+http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
+#EXTINF:0, PMC
+http://63.237.48.28/ios/PMC/PMC.m3u8
+#EXTINF:0, Manoto
+http://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master_Layer2.m3u8
+#EXTINF:0, BBC Persian
+http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+#EXTINF:0, FARSI1
+http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
+#EXTINF:0, TV P
+http://63.237.48.28/ios/TVP/TVP.m3u8
+#EXTINF:0, GALA TV
+http://63.237.48.28/ios/NEX_1/NEX_1.m3u8
+#EXTINF:0, MyTV
+http://63.237.48.28/ios/4U_CARTOON/4U_CARTOON.m3u8
+#EXTINF:0, ITN
+http://63.237.48.28/ios/ITN/ITN.m3u8
+#EXTINF:0, TAPESH
+http://63.237.48.28/ios/TAPESH/TAPESH.m3u8
+#EXTINF:0, VOA Persian
+http://63.237.48.28/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
+#EXTINF:0, PARS TV
+http://63.237.48.28/ios/PARSTV/PARSTV.m3u8
+#EXTINF:0, iFilm
+http://63.237.48.28/ios/IFILM/IFILM.m3u8
+#EXTINF:0, Irib TV1
+http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
+#EXTINF:0, Irib TV2
+http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
+#EXTINF:0, Irib TV3
+http://63.237.48.28/ios/IRIB_TV3/IRIB_TV3.m3u8
+#EXTINF:0, Irib TV4
+http://63.237.48.28/ios/IRIB_TV4/IRIB_TV4.m3u8
+#EXTINF:0, Irib TV5
+http://63.237.48.28/ios/IRIB_TV5/IRIB_TV5.m3u8
+#EXTINF:0, Irib Nasim
+http://63.237.48.28/ios/IRIB_NASIM/IRIB_NASIM.m3u8
+#EXTINF:0, IRIB MOSTANAD
+http://63.237.48.28/ios/IRIB_MOSTANAD/IRIB_MOSTANAD.m3u8
+#EXTINF:0, IRIB AMOOZESH
+http://63.237.48.28/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8
+#EXTINF:0, Irinn
+http://63.237.48.28/ios/IRINN/IRINN.m3u8
+#EXTINF:0, Shoma
+http://63.237.48.28/ios/IRIB_SHOMA/IRIB_SHOMA.m3u8
+#EXTINF:0, Pouya
+http://63.237.48.28/ios/POOYA_TV/POOYA_TV.m3u8
+#EXTINF:0, NAMAYESH
+http://63.237.48.28/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
+#EXTINF:0, SALAM TV
+http://63.237.48.28/ios/SALAMN_TV/SALAMN_TV.m3u8
+#EXTINF:0, Quran TV
+http://63.237.48.28/ios/QURAN_TV/QURAN_TV.m3u8
+#EXTINF:0, TM TV
+http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
+#EXTINF:0, ICC
+http://63.237.48.28/ios/ICC/ICC.m3u8
+#EXTINF:0, Ganj E Hozour TV
+http://63.237.48.28/ios/GANJ_E_HOZOOR/GANJ_E_HOZOOR.m3u8
+#EXTINF:0, Didar Global Plus
+http://63.237.48.28/ios/DIDAR/DIDAR.m3u8
+#EXTINF:0, ITC
+http://63.237.48.28/ios/ITC/ITC.m3u8
+#EXTINF:0, Ten TV
+http://63.237.48.28/ios/TEN_TV/TEN_TV.m3u8
+#EXTINF:0, Merci TV
+http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
+#EXTINF:0, ANDISHEH TV
+http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
