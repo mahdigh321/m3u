@@ -1,0 +1,553 @@
+#EXTM3U
+
+#EXTINF:-1,UK: BT Sport 1 HD
+ http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6911.ts
+#EXTINF:-1,UK: BT Sports 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/671.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6912.ts
+#EXTINF:-1,UK: BT Sports 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/817.ts
+#EXTINF:-1,UK: BT SPORT 3 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9647.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6780.ts
+#EXTINF:-1,UK: BT Sport Europe
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6858.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1440.ts
+#EXTINF:-1,UK: SKY SPORTS 1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2159.ts
+#EXTINF:-1,UK: SKY SPORTS 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1842.ts
+#EXTINF:-1,UK: SKY SPORTS 2 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2160.ts
+#EXTINF:-1,UK: SKY SPORTS 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1841.ts
+#EXTINF:-1,UK: SKY SPORTS 3 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2161.ts
+#EXTINF:-1,UK: SKY SPORTS 3
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1840.ts
+#EXTINF:-1,UK: SKY SPORTS 4 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2162.ts
+#EXTINF:-1,UK: SKY SPORTS 4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1839.ts
+#EXTINF:-1,UK: SKY SPORTS 5 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2163.ts
+#EXTINF:-1,UK: SKY SPORTS 5
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1838.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2165.ts
+#EXTINF:-1,VIP UK: Sky Sports MIX
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9778.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3855.ts
+#EXTINF:-1,UK: SATENTA SPORT
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1579.ts
+#EXTINF:-1,UK: SETENTA Irland
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3531.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5768.ts
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2169.ts
+#EXTINF:-1,UK: Eurosport 1 UK
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3856.ts
+#EXTINF:-1,UK: EUROSPORT 2 UK
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2660.ts
+#EXTINF:-1,UK: MUTV HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2158.ts
+#EXTINF:-1,UK: Chelsea FC
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5745.ts
+#EXTINF:-1,UK: LFC TV
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5436.ts
+#EXTINF:-1,UK: Mototrs TV
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5749.ts
+#EXTINF:-1,UK: Racing UK
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5769.ts
+#EXTINF:-1,UK: AT THE RACES
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6906.ts
+#EXTINF:-1,UK: Horse & Country
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8102.ts
+#EXTINF:-1,UK: BOX NATION  HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2174.ts
+#EXTINF:-1,UK: Good Food +1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8438.ts
+#EXTINF:-1,VIP: S.P.L-1 RANGERS/CELTIC/HEARTS(LIVE FOR SPL)
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7987.ts
+#EXTINF:-1,VIP: EVERTON FC TV
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9413.ts
+#EXTINF:-1,VIP UK: EIR SPORT 1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9425.ts
+#EXTINF:-1,VIP UK: EIR SPORT 2 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9426.ts
+#EXTINF:-1,VIP UK: BT SPORT EXTRA 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9419.ts
+#EXTINF:-1,VIP UK: BT SPORT EXTRA 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9420.ts
+#EXTINF:-1,VIP UK: BT SPORT EXTRA 3
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9421.ts
+#EXTINF:-1,VIP UK: BT SPORT EXTRA 4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9422.ts
+#EXTINF:-1,VIP UK: BT SPORT EXTRA 5
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9423.ts
+#EXTINF:-1,VIP UK: BT SPORT EXTRA 6
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9424.ts
+#EXTINF:-1,UK: Sky Movies Showcase
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1417.ts
+#EXTINF:-1,UK: SKY MOVIES SCI-FI & HORROR HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1419.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1420.ts
+#EXTINF:-1,UK: Sky Movies Premiere+1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6915.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1421.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1422.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2096.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2097.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2098.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1424.ts
+#EXTINF:-1,UK: SKY MOVIES CRIME & THRILLER HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1416.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1426.ts
+#EXTINF:-1,UK: Sky Movies Action&Adventure
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1427.ts
+#EXTINF:-1,UK: Sky Movies Robots
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8133.ts
+#EXTINF:-1,UK: MOVIES24
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5564.ts
+#EXTINF:-1,UK: Horror
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5653.ts
+#EXTINF:-1,UK: True Movies 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2437.ts
+#EXTINF:-1,UK: True Movies 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2436.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5748.ts
+#EXTINF:-1,UK: Movies 4 Men  1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9540.ts
+#EXTINF:-1,UK: Sony Movies
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5743.ts
+#EXTINF:-1,UK: Sony Movies +1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6554.ts
+#EXTINF:-1,UK: UNIVERSAL
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6722.ts
+#EXTINF:-1,UK: UNIVERSAL 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8621.ts
+#EXTINF:-1,UK: SyFy
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8134.ts
+#EXTINF:-1,UK: SyFy 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8294.ts
+#EXTINF:-1,UK: Parament ch
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6925.ts
+#EXTINF:-1,UK: ITV Encore
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5594.ts
+#EXTINF:-1,UK: ITV Be
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5595.ts
+#EXTINF:-1,UK: ITV1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1432.ts
+#EXTINF:-1,UK: ITV  +1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3845.ts
+#EXTINF:-1,UK: ITV2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1431.ts
+#EXTINF:-1,UK: ITV3
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1430.ts
+#EXTINF:-1,UK: ITV4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1429.ts
+#EXTINF:-1,UK: BBC Entertainment
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6718.ts
+#EXTINF:-1,UK: BBC1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1437.ts
+#EXTINF:-1,UK: BBC2 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1436.ts
+#EXTINF:-1,UK: BBC3/CBBC HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1435.ts
+#EXTINF:-1,UK: BBC4/CBEEBIES HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1434.ts
+#EXTINF:-1,UK: BBC News
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3858.ts
+#EXTINF:-1,UK: BBC ALBA
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9779.ts
+#EXTINF:-1,UK: Premier Sports
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9666.ts
+#EXTINF:-1,UK: BBC1 Scotland
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9667.ts
+#EXTINF:-1,UK: SKY ONE
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3822.ts
+#EXTINF:-1,UK: Sky One 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8783.ts
+#EXTINF:-1,UK: SKY TWO
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2166.ts
+#EXTINF:-1,UK: FOX HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7899.ts
+#EXTINF:-1,UK: Fox
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6416.ts
+#EXTINF:-1,UK: TCM
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7894.ts
+#EXTINF:-1,UK: SKY LIVING HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7897.ts
+#EXTINF:-1,UK: SKY ATLANTIC HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7898.ts
+#EXTINF:-1,UK: SKY ATLANTIC 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8293.ts
+#EXTINF:-1,UK: E! UK
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7900.ts
+#EXTINF:-1,UK: Film 4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3846.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3820.ts
+#EXTINF:-1,UK: CBS Drama
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3824.ts
+#EXTINF:-1,UK: CBS Action
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3823.ts
+#EXTINF:-1,UK: CBS Reality
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2433.ts
+#EXTINF:-1,UK: CBS REALITY 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8765.ts
+#EXTINF:-1,UK: Channel 5
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6459.ts
+#EXTINF:-1,UK: Channel 5 Star
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6462.ts
+#EXTINF:-1,UK: Channel 5 USA
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6461.ts
+#EXTINF:-1,UK: 5USA
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3832.ts
+#EXTINF:-1,UK: REAL Live
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5049.ts
+#EXTINF:-1,UK: GOLD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5051.ts
+#EXTINF:-1,UK: Comedy Central
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1445.ts
+#EXTINF:-1,UK: Comedy Central  1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9632.ts
+#EXTINF:-1,UK: Comedy Extra
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5048.ts
+#EXTINF:-1,UK: Nat Geo
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3862.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3863.ts
+#EXTINF:-1,UK: Discovery
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5652.ts
+#EXTINF:-1,UK: XITE
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7909.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3864.ts
+#EXTINF:-1,UK: Discovery Science
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3861.ts
+#EXTINF:-1,UK: Discovery Home & Health
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5545.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2100.ts
+#EXTINF:-1,UK: Discovery History
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2099.ts
+#EXTINF:-1,UK: Discovery Shed
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2893.ts
+#EXTINF:-1,UK: Animal planet
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3473.ts
+#EXTINF:-1,UK: History
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3865.ts
+#EXTINF:-1,UK: H2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6629.ts
+#EXTINF:-1,UK: The Vault
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3848.ts
+#EXTINF:-1,UK: Watch
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6573.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3836.ts
+#EXTINF:-1,UK: E4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5599.ts
+#EXTINF:-1,UK: RTÉjr
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8135.ts
+#EXTINF:-1,UK: Channels 24
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8138.ts
+#EXTINF:-1,UK: Travel Channel
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5764.ts
+#EXTINF:-1,UK: Really
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6902.ts
+#EXTINF:-1,UK: TLC
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5752.ts
+#EXTINF:-1,UK: CNN Int
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6928.ts
+#EXTINF:-1,UK: Sky News
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5770.ts
+#EXTINF:-1,UK: FOX NEWS
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5047.ts
+#EXTINF:-1,UK: DMAX
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5762.ts
+#EXTINF:-1,UK: Alibi
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5746.ts
+#EXTINF:-1,UK: 5Star
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5763.ts
+#EXTINF:-1,UK: RTE ONE
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2435.ts
+#EXTINF:-1,UK: RTE TWO
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3528.ts
+#EXTINF:-1,UK: Home
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3809.ts
+#EXTINF:-1,UK: HOME 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8437.ts
+#EXTINF:-1,UK: Living UK
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6918.ts
+#EXTINF:-1,UK: Food Network
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6926.ts
+#EXTINF:-1,UK: Cartoon Network
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6920.ts
+#EXTINF:-1,UK: Cartoon Network 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8748.ts
+#EXTINF:-1,UK: Boomerang
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6921.ts
+#EXTINF:-1,UK: Disney Ch HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3440.ts
+#EXTINF:-1,UK: Disney Ch 1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8295.ts
+#EXTINF:-1,UK: Disney XD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5650.ts
+#EXTINF:-1,UK: Disney XD 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8297.ts
+#EXTINF:-1,UK: Disney Junior
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5651.ts
+#EXTINF:-1,UK: Disney Junior 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8296.ts
+#EXTINF:-1,UK: Nickelodeon
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3866.ts
+#EXTINF:-1,UK: NickToons
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3867.ts
+#EXTINF:-1,UK: Nick Jr  1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5648.ts
+#EXTINF:-1,UK: Nick Jr. 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8746.ts
+#EXTINF:-1,UK: nick jr too
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8747.ts
+#EXTINF:-1,UK: Kix
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6413.ts
+#EXTINF:-1,UK: More4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3838.ts
+#EXTINF:-1,UK: Five
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3821.ts
+#EXTINF:-1,UK: 3e
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3830.ts
+#EXTINF:-1,UK: TG4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6927.ts
+#EXTINF:-1,UK: MTV Music
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3849.ts
+#EXTINF:-1,UK: MTV 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8776.ts
+#EXTINF:-1,UK: MTV Rocks
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6087.ts
+#EXTINF:-1,UK: MTV Hits
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6086.ts
+#EXTINF:-1,UK: MTV Dance HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6085.ts
+#EXTINF:-1,UK: MTV Classic
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3850.ts
+#EXTINF:-1,UK: MTV Base
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6905.ts
+#EXTINF:-1,UK: VH1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3847.ts
+#EXTINF:-1,UK: VH1 Classic
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8820.ts
+#EXTINF:-1,UK: VIVA
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6473.ts
+#EXTINF:-1,UK: YESTERDAY
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6900.ts
+#EXTINF:-1,UK: Quest
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6903.ts
+#EXTINF:-1,UK: Pick
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6904.ts
+#EXTINF:-1,UK: Dave
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6914.ts
+#EXTINF:-1,UK: UTV Ireland
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9503.ts
+#EXTINF:-1,UK: London Live
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8136.ts
+#EXTINF:-1,UK: AMC
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7236.ts
+#EXTINF:-1,UK: Flava
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8620.ts
+#EXTINF:-1,UK: ISLAM CHANNEL
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9633.ts
+ #EXTINF:-1,NL: Fox Sports 1 Eredivisie HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1794.ts
+#EXTINF:-1,NL: Fox sports 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1795.ts
+#EXTINF:-1,NL: Fox sports 3
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1796.ts
+#EXTINF:-1,NL: Fox sports 4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1797.ts
+#EXTINF:-1,NL: Fox Sports 5 Eredivisie
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1798.ts
+#EXTINF:-1,NL: Fox Sports 6
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3548.ts
+#EXTINF:-1,NL: Ziggo Sport
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3549.ts
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3721.ts
+#EXTINF:-1,NL: Sport 1 Golf
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1450.ts
+#EXTINF:-1,NL: Sport 1 Racing
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4995.ts
+#EXTINF:-1,NL: Sport 1 Extra 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4542.ts
+#EXTINF:-1,NL: Sports 1 Extra 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3466.ts
+#EXTINF:-1,NL: EXTREME SPORTS
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8104.ts
+#EXTINF:-1,NL: Motor TV
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8400.ts
+#EXTINF:-1,NL: EUROSPORT 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8411.ts
+#EXTINF:-1,NL: EUROSPORT 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8410.ts
+#EXTINF:-1,NL: Film 1 Action
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2157.ts
+#EXTINF:-1,NL: Film 1 Premiere HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1448.ts
+#EXTINF:-1,NL: Film 1 Sundance
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4998.ts
+#EXTINF:-1,NL: Film 1 Spotlight
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4999.ts
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4389.ts
+#EXTINF:-1,NL: HBO 1 NL
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2156.ts
+#EXTINF:-1,NL: HBO 2 NL
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2155.ts
+#EXTINF:-1,NL: HBO 3 NL
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2154.ts
+#EXTINF:-1,NL: NPO 1 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3550.ts
+#EXTINF:-1,NL: NPO 1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8387.ts
+#EXTINF:-1,NL: NPO 2 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3553.ts
+#EXTINF:-1,NL: NPO 2
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8388.ts
+#EXTINF:-1,NL: NPO 3
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2823.ts
+#EXTINF:-1,NL: NPO Humor TV HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7640.ts
+#EXTINF:-1,NL: NPO Nieuws
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2153.ts
+#EXTINF:-1,NL: NPO DOC
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7910.ts
+#EXTINF:-1,NL: NPO Zapp Xtra
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8371.ts
+#EXTINF:-1,NL: NPO Politiek / Sport HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8389.ts
+#EXTINF:-1,NL: RTL Crime
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4983.ts
+#EXTINF:-1,NL: RTL Z
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2144.ts
+#EXTINF:-1,NL: RTL4
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7819.ts
+#EXTINF:-1,NL: RTL 5
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2826.ts
+#EXTINF:-1,NL: RTL 7
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2827.ts
+#EXTINF:-1,NL: RTL 8
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4996.ts
+#EXTINF:-1,NL: SBS 6
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4720.ts
+#EXTINF:-1,NL: SBS 9
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2834.ts
+#EXTINF:-1,NL: Net5 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7912.ts
+#EXTINF:-1,NL: RTV Drenthe
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8407.ts
+#EXTINF:-1,NL: RTL Lounge
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8374.ts
+#EXTINF:-1,NL: Comedy Central Family
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7914.ts
+#EXTINF:-1,NL: AMC
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8579.ts
+#EXTINF:-1,NL: BBC Entertainment
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7918.ts
+#EXTINF:-1,NL: Comedy Central
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2152.ts
+#EXTINF:-1,NL: Comedy Central extra
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4625.ts
+#EXTINF:-1,NL: 13th Street
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8396.ts
+#EXTINF:-1,NL: SyFy
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5205.ts
+#EXTINF:-1,NL: HISTORY HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8412.ts
+#EXTINF:-1,NL: Discovery Channel
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5001.ts
+#EXTINF:-1,NL: KetNet HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5000.ts
+#EXTINF:-1,NL: Crime & Investigation
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5002.ts
+#EXTINF:-1,NL: National Geographic HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8398.ts
+#EXTINF:-1,NL: TLC
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8395.ts
+#EXTINF:-1,NL: Veronica/Disney XD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8408.ts
+#EXTINF:-1,NL: Veronica
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5201.ts
+#EXTINF:-1,NL: N HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8209.ts
+#EXTINF:-1,NL: BVN
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8208.ts
+#EXTINF:-1,NL: MTV Music 24
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7915.ts
+#EXTINF:-1,NL: MTV HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7916.ts
+#EXTINF:-1,NL: MTV
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7917.ts
+#EXTINF:-1,NL: Canvas HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8818.ts
+#EXTINF:-1,NL: Slam!
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8406.ts
+#EXTINF:-1,NL: tvO HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8399.ts
+#EXTINF:-1,NL: TV Oranje
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8405.ts
+#EXTINF:-1,NL: TV Oost
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8404.ts
+#EXTINF:-1,NL: Spike
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8392.ts
+#EXTINF:-1,NL: L1
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8401.ts
+#EXTINF:-1,NL: Omroep Zeeland
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8402.ts
+#EXTINF:-1,NL: Omroep Brabant
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8403.ts
+#EXTINF:-1,NL: Baby TV
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8785.ts
+#EXTINF:-1,NL: ONS
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8786.ts
+#EXTINF:-1,NL: Nick
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8784.ts
+#EXTINF:-1,NL: RTV Slingeland
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8787.ts
+#EXTINF:-1,NL: AT5 HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8397.ts
+#EXTINF:-1,NL: 24Kitchen
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8372.ts
+#EXTINF:-1,NL: JimJam
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8578.ts
+#EXTINF:-1,NL: BOOMERANG
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7913.ts
+#EXTINF:-1,NL: Disney Channel NL
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8390.ts
+#EXTINF:-1,NL: Disney Junior
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8391.ts
+#EXTINF:-1,NL: Nicktoons
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8393.ts
+#EXTINF:-1,NL: Nick Jr
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8394.ts
+#EXTINF:-1,NL: Fryslan HD
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8479.ts
+#EXTINF:-1,NL: 100%NL
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8445.ts
+#EXTINF:-1,NL: 192 TV
+http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8571.ts
+  
