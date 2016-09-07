@@ -160,17 +160,17 @@ http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
 http://63.237.48.28/ios/PARSTV/PARSTV.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV"  group-title="UK",ITV
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1432.ts
+http://play.uktvnow.net:1935/live/itv11.stream/media_12.m3u8?wowzasessionid=1619409502&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6Mzc6NTEgQU0maGFzaF92YWx1ZT1YNEFFbG1rZDJtRWhNKzVtTnVUR0xBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV +1"  group-title="UK",ITV +1
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3845.ts
+http://play.uktvnow.net:1935/live/itvencore.stream/media_289.m3u8?wowzasessionid=898268946&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MzM6NDIgQU0maGFzaF92YWx1ZT0vS0RmTnVadjM2OW5pZk02aDFsTXRnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 2"  group-title="UK",ITV 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1431.ts
+http://play.uktvnow.net:1935/live/itv2.stream/media_761.m3u8?wowzasessionid=1043881948&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MTk6MTkgQU0maGFzaF92YWx1ZT1DbTFuclF4b1BIdHduc3I1SmFpMGtRPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 3"  group-title="UK",ITV 3
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1430.ts
+http://play.uktvnow.net:1935//live/itv3.stream/media_99.m3u8?wowzasessionid=1816388437&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6NDA6MjIgQU0maGFzaF92YWx1ZT0xMFRxNDNkaFNiN2JuTWwrb0I3anN3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 4"  group-title="UK",ITV 4
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1429.ts
+http://play.uktvnow.net:1935/live/itv4.stream/media_3013.m3u8?wowzasessionid=1556248046&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MjI6MjEgQU0maGFzaF92YWx1ZT1qSnRGZWsxd1lXMHZ1K1FtUlp5Q0x3PT0mdmFsaWRtaW51dGVzPTIw
 
