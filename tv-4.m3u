@@ -174,3 +174,12 @@ http://play.uktvnow.net:1935//live/itv3.stream/media_99.m3u8?wowzasessionid=1816
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 4"  group-title="UK",ITV 4
 http://play.uktvnow.net:1935/live/itv4.stream/media_3013.m3u8?wowzasessionid=1556248046&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MjI6MjEgQU0maGFzaF92YWx1ZT1qSnRGZWsxd1lXMHZ1K1FtUlp5Q0x3PT0mdmFsaWRtaW51dGVzPTIw
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VEVO 1"  group-title="MUSIC",VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VEVO 2"  group-title="MUSIC",VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VEVO 3"  group-title="MUSIC",VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
