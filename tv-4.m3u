@@ -1,15 +1,22 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC2"  group-title="MBC",MBC2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC2"  group-title="ARABIC",MBC2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 4"  group-title="MBC",MBC 4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 4"  group-title="ARABIC",MBC 4
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Max"  group-title="MBC",MBC Max
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Max"  group-title="ARABIC",MBC Max
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Action"  group-title="MBC",MBC Action
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Action"  group-title="ARABIC",MBC Action
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Dubai One"  group-title="ARABIC",Dubai One
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Arabic"  group-title="ARABIC",BBC Arabic
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
 http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONYX"  group-title="GEM",ONYX
@@ -62,9 +69,6 @@ http://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master_Layer2.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Persian"  group-title="Persian Tv-2",BBC Persian
 http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Arabic"  group-title="Persian Tv-2",BBC Arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FARSI1"  group-title="Persian Tv-2",FARSI1
 http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
@@ -195,8 +199,24 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet"  group-title="MIX",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name=" 2 "  group-title="MIX", 2
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRAVEL"  group-title="MIX", TRAVEL
+http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PLANET GREEN"  group-title="MIX", PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ID"  group-title="MIX", ID
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN"  group-title="MIX", ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SCI"  group-title="MIX", SCI
+http://80.80.160.168/live/9/live.m3u8
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Show Time"  group-title="MIX",Show Time
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Dubai One"  group-title="MIX",Dubai One
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
