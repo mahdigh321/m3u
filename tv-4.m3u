@@ -78,73 +78,70 @@ http://63.237.48.28/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/ifilm%20C.png" tvg-name="iFilm"  group-title="Persian Tv-2",iFilm
 http://63.237.48.28/ios/IFILM/IFILM.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Irib TV1"  group-title="IRIB",Irib TV1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/irib1%20C.png" tvg-name="Irib TV1"  group-title="IRIB",Irib TV1
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Irib TV2"  group-title="IRIB",Irib TV2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/irib2%20C.png" tvg-name="Irib TV2"  group-title="IRIB",Irib TV2
 http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Irib TV3"  group-title="IRIB",Irib TV3
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRIB%203%20c.png" tvg-name="Irib TV3"  group-title="IRIB",Irib TV3
 http://63.237.48.28/ios/IRIB_TV3/IRIB_TV3.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Irib TV4"  group-title="IRIB",Irib TV4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/irib4%20C.png" tvg-name="Irib TV4"  group-title="IRIB",Irib TV4
 http://63.237.48.28/ios/IRIB_TV4/IRIB_TV4.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Irib TV5"  group-title="IRIB",Irib TV5
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRIB%205%20C.png" tvg-name="Irib TV5"  group-title="IRIB",Irib TV5
 http://63.237.48.28/ios/IRIB_TV5/IRIB_TV5.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Irib Nasim"  group-title="IRIB",Irib Nasim
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRIB%20Nasim%20C.png" tvg-name="Irib Nasim"  group-title="IRIB",Irib Nasim
 http://63.237.48.28/ios/IRIB_NASIM/IRIB_NASIM.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIB MOSTANAD"  group-title="IRIB",IRIB MOSTANAD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRIB%20Mostanad%20C.png" tvg-name="IRIB MOSTANAD"  group-title="IRIB",IRIB MOSTANAD
 http://63.237.48.28/ios/IRIB_MOSTANAD/IRIB_MOSTANAD.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIB AMOOZESH"  group-title="IRIB",IRIB AMOOZESH
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRIB%20Amoozesh%20C.png" tvg-name="IRIB AMOOZESH"  group-title="IRIB",IRIB AMOOZESH
 http://63.237.48.28/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Irinn"  group-title="IRIB",Irinn
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRINN%20C.png" tvg-name="Irinn"  group-title="IRIB",Irinn
 http://63.237.48.28/ios/IRINN/IRINN.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Shoma"  group-title="IRIB",Shoma
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRIB%20Shoma%20C.png" tvg-name="Shoma"  group-title="IRIB",Shoma
 http://63.237.48.28/ios/IRIB_SHOMA/IRIB_SHOMA.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pouya"  group-title="IRIB",Pouya
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRIB%20Pooya%20C.png" tvg-name="Pouya"  group-title="IRIB",Pouya
 http://63.237.48.28/ios/POOYA_TV/POOYA_TV.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAMAYESH"  group-title="IRIB",NAMAYESH
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/IRIB%20Namayesh%20C.png" tvg-name="NAMAYESH"  group-title="IRIB",NAMAYESH
 http://63.237.48.28/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SALAM TV"  group-title="IRIB",SALAM TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/salaamtv%20C.png" tvg-name="SALAM TV"  group-title="IRIB",SALAM TV
 http://63.237.48.28/ios/SALAMN_TV/SALAMN_TV.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Quran TV"  group-title="IRIB",Quran TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/quarantv%20C.png" tvg-name="Quran TV"  group-title="IRIB",Quran TV
 http://63.237.48.28/ios/QURAN_TV/QURAN_TV.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TM TV"  group-title="Persian Tv-3",TM TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/TM%20TV%20C.png" tvg-name="TM TV"  group-title="Persian Tv-3",TM TV
 http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ICC"  group-title="Persian Tv-3",ICC
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/ICC%20C.png" tvg-name="ICC"  group-title="Persian Tv-3",ICC
 http://63.237.48.28/ios/ICC/ICC.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ganj E Hozour TV"  group-title="Persian Tv-3",Ganj E Hozour TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/ganje-hozor%20C.png" tvg-name="Ganj E Hozour TV"  group-title="Persian Tv-3",Ganj E Hozour TV
 http://63.237.48.28/ios/GANJ_E_HOZOOR/GANJ_E_HOZOOR.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Didar Global Plus"  group-title="Persian Tv-3",Didar Global Plus
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/didartv%20C.png" tvg-name="Didar Global Plus"  group-title="Persian Tv-3",Didar Global Plus
 http://63.237.48.28/ios/DIDAR/DIDAR.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ITC"  group-title="Persian Tv-3",ITC
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/itctv%20C.png" tvg-name="ITC"  group-title="Persian Tv-3",ITC
 http://63.237.48.28/ios/ITC/ITC.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ten TV"  group-title="Persian Tv-3",Ten TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/tentv%20C.png" tvg-name="Ten TV"  group-title="Persian Tv-3",Ten TV
 http://63.237.48.28/ios/TEN_TV/TEN_TV.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Merci TV"  group-title="Persian Tv-3",Merci TV
-http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANDISHEH TV"  group-title="Persian Tv-3",ANDISHEH TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/andishetv%20C.png" tvg-name="ANDISHEH TV"  group-title="Persian Tv-3",ANDISHEH TV
 http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PARS TV"  group-title="Persian Tv-3",PARS TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/parstv%20C.png" tvg-name="PARS TV"  group-title="Persian Tv-3",PARS TV
 http://63.237.48.28/ios/PARSTV/PARSTV.m3u8
 
 #EXTINF:0, tvg-id="id2" tvg-logo="New Logo" tvg-name="ITV"  group-title="UK",ITV
@@ -162,13 +159,13 @@ http://play.uktvnow.net:1935//live/itv3.stream/media_99.m3u8?wowzasessionid=1816
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 4"  group-title="UK",ITV 4
 http://play.uktvnow.net:1935/live/itv4.stream/media_3013.m3u8?wowzasessionid=1556248046&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MjI6MjEgQU0maGFzaF92YWx1ZT1qSnRGZWsxd1lXMHZ1K1FtUlp5Q0x3PT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:0, tvg-id="id2" tvg-logo="New Logo" tvg-name="VEVO 1"  group-title="MUSIC",VEVO 1
+#EXTINF:0, tvg-id="id2" tvg-logo="http://dooweet.org/en/wp-content/uploads/2015/01/VEVO-Android-App-For-Music1.png" tvg-name="VEVO 1"  group-title="MUSIC",VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VEVO 2"  group-title="MUSIC",VEVO 2
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://dooweet.org/en/wp-content/uploads/2015/01/VEVO-Android-App-For-Music1.png" tvg-name="VEVO 2"  group-title="MUSIC",VEVO 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VEVO 3"  group-title="MUSIC",VEVO 3
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://dooweet.org/en/wp-content/uploads/2015/01/VEVO-Android-App-For-Music1.png" tvg-name="VEVO 3"  group-title="MUSIC",VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BBC KIDS"  group-title="KIDS",BBC KIDS
