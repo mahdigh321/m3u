@@ -174,3 +174,6 @@ http://149.56.117.195:9080/BBCThree/playlist.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney Junior"  group-title="KIDS",Disney Junior
 http://149.56.117.195:9080/DisneyJrUK/tracks-1,2/index.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="National Geo"  group-title="MIX",National Geo
+http://167.114.102.27/live/VExiRRPxNcodGFN_Imj2nQ/1473362987/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
+
