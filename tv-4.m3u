@@ -3,32 +3,31 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://joinstreams.com/wp-content/uploads/2016/01/347553907_640.jpg" tvg-name="MBC2"  group-title="ARABIC",MBC2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 4"  group-title="ARABIC",MBC 4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.allied-media.com/ARABTV/images/Mbc4%20channel.jpg" tvg-name="MBC 4"  group-title="ARABIC",MBC 4
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Max"  group-title="ARABIC",MBC Max
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/MBC_Max_original_logo.svg/1207px-MBC_Max_original_logo.svg.png" tvg-name="MBC Max"  group-title="ARABIC",MBC Max
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Action"  group-title="ARABIC",MBC Action
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2014/August/week-02/9-8-2014/mbc-action-logo/original/8c79ab41b6beb0a5f568e8bd05c0048fa2d40cf9/mbc+action+logo.jpg" tvg-name="MBC Action"  group-title="ARABIC",MBC Action
+http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Dubai One"  group-title="ARABIC",Dubai One
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://nnewsn.com/wp-content/uploads/2014/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpeg" tvg-name="Dubai One"  group-title="ARABIC",Dubai One
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Arabic"  group-title="ARABIC",BBC Arabic
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-FunttT2po-U/AAAAAAAAAAI/AAAAAAAAAAA/eIfP21fiXu4/s900-c-k-no/photo.jpg" tvg-name="BBC Arabic"  group-title="ARABIC",BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONYX"  group-title="GEM",ONYX
 Group N/A
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM TV"  group-title="GEM",GEM TV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://live-irib.com/wp-content/uploads/2014/11/GEMTV-150x150.png" tvg-name="GEM TV"  group-title="GEM",GEM TV
 http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM RIVER"  group-title="GEM",GEM RIVER
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://live-irib.com/wp-content/uploads/2014/11/GEM-RIVER-150x150.png" tvg-name="GEM RIVER"  group-title="GEM",GEM RIVER
 http://63.237.48.28/ios/GEM_RIVER/GEM_RIVER.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM RUBIX"  group-title="GEM",GEM RUBIX
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://live-irib.com/wp-content/uploads/2014/11/GEM-RUBIX-150x150.png" tvg-name="GEM RUBIX"  group-title="GEM",GEM RUBIX
 http://63.237.48.28/ios/GEM_RUBIX/GEM_RUBIX.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM SERIES"  group-title="GEM",GEM SERIES
@@ -40,37 +39,37 @@ Group N/A
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM KURD"  group-title="GEM",GEM KURD
 Group N/A
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM ONE"  group-title="GEM",GEM ONE
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.worldlanguagestv.com/logos/gem-tv-usa.png" tvg-name="GEM ONE"  group-title="GEM",GEM ONE
 http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM TEEN"  group-title="GEM",GEM TEEN
 Group N/A
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM JUNIOR"  group-title="GEM",GEM JUNIOR
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gem_junior.jpg" tvg-name="GEM JUNIOR"  group-title="GEM",GEM JUNIOR
 http://63.237.48.28/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MIFA"  group-title="GEM",MIFA
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://live-irib.com/wp-content/uploads/2014/11/GEM-MIFA-150x150.png" tvg-name="MIFA"  group-title="GEM",MIFA
 http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM FOOD"  group-title="GEM",GEM FOOD
 http://63.237.48.28/ios/ONYX/ONYX.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM LIFE"  group-title="GEM",GEM LIFE
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zendetv.com/wp-content/uploads/2014/11/GEM_Life_HD.jpg" tvg-name="GEM LIFE"  group-title="GEM",GEM LIFE
 http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM Bollywood"  group-title="GEM",GEM Bollywood
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/GEM_BOLLYWOOD.png" tvg-name="GEM Bollywood"  group-title="GEM",GEM Bollywood
 http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PMC"  group-title="Persian Tv-2",PMC
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/9/9a/PMC_Music.png" tvg-name="PMC"  group-title="Persian Tv-2",PMC
 http://63.237.48.28/ios/PMC/PMC.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.persia4all.com/images/imagesCAHHGI2N.jpg" tvg-name="Manoto"  group-title="Persian Tv-2",Manoto
 http://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master_Layer2.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Persian"  group-title="Persian Tv-2",BBC Persian
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://entworld.net/wp-content/uploads/2016/03/5b44eb83-7749-43da-b1c7-e58859e71501.png" tvg-name="BBC Persian"  group-title="Persian Tv-2",BBC Persian
 http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FARSI1"  group-title="Persian Tv-2",FARSI1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://live-irib.com/wp-content/uploads/2015/05/Farsi11-150x150.png" tvg-name="FARSI1"  group-title="Persian Tv-2",FARSI1
 http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV P"  group-title="Persian Tv-2",TV P
@@ -192,31 +191,4 @@ http://149.56.117.195:9080/BBCThree/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney Junior"  group-title="KIDS",Disney Junior
 http://149.56.117.195:9080/DisneyJrUK/tracks-1,2/index.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery Science HD"  group-title="MIX",Discovery Science HD
-http://80.80.160.168/live/8/live.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet"  group-title="MIX",Animal Planet
-http://80.80.160.168/live/1/live.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name=" 2 "  group-title="MIX", 2
-http://80.80.160.168/live/2/live.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRAVEL"  group-title="MIX", TRAVEL
-http://80.80.160.168/live/3/live.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PLANET GREEN"  group-title="MIX", PLANET GREEN
-http://80.80.160.168/live/4/live.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ID"  group-title="MIX", ID
-http://80.80.160.168/live/5/live.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN"  group-title="MIX", ESPN
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SCI"  group-title="MIX", SCI
-http://80.80.160.168/live/9/live.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Show Time"  group-title="MIX",Show Time
-http://80.80.160.168/live/7/live.m3u8
 
