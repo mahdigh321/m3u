@@ -51,9 +51,6 @@ http://63.237.48.28/ios/ONYX/ONYX.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM LIFE"  group-title="GEM",GEM LIFE
 http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM SPORT"  group-title="GEM",GEM SPORT
-Group N/A
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM Bollywood"  group-title="GEM",GEM Bollywood
 http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
 
@@ -65,6 +62,9 @@ http://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master_Layer2.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Persian"  group-title="Persian Tv-2",BBC Persian
 http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC Arabic"  group-title="Persian Tv-2",BBC Arabic
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FARSI1"  group-title="Persian Tv-2",FARSI1
 http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
@@ -183,3 +183,20 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VEVO 3"  group-title="MUSIC",VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BBC KIDS"  group-title="KIDS",BBC KIDS
+http://149.56.117.195:9080/BBCThree/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney Junior"  group-title="KIDS",Disney Junior
+http://149.56.117.195:9080/DisneyJrUK/tracks-1,2/index.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery Science HD"  group-title="MIX",Discovery Science HD
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet"  group-title="MIX",Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Show Time"  group-title="MIX",Show Time
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Dubai One"  group-title="MIX",Dubai One
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
