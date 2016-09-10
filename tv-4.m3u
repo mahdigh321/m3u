@@ -15,6 +15,9 @@ http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://nnewsn.com/wp-content/uploads/2014/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A.jpeg" tvg-name="Dubai One"  group-title="ARABIC",Dubai One
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://satfestival.ucoz.net/channels/dube.jpg" tvg-name="Dubai TV"  group-title="ARABIC",Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-FunttT2po-U/AAAAAAAAAAI/AAAAAAAAAAA/eIfP21fiXu4/s900-c-k-no/photo.jpg" tvg-name="BBC Arabic"  group-title="ARABIC",BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
@@ -145,10 +148,10 @@ http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
 http://63.237.48.28/ios/PARSTV/PARSTV.m3u8
 
 #EXTINF:0, tvg-id="id2" tvg-logo="New Logo" tvg-name="ITV"  group-title="UK",ITV
-http://play.uktvnow.net:1935/live/itv11.stream/media_12.m3u8?wowzasessionid=1619409502&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6Mzc6NTEgQU0maGFzaF92YWx1ZT1YNEFFbG1rZDJtRWhNKzVtTnVUR0xBPT0mdmFsaWRtaW51dGVzPTIw
+http://213.200.110.120/live/11.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d377662a76c624949d94ca2e3a7a8dbc12d9b2a5a8f76a165b19cbd02988ec461927e6bc4a7dbb5759334e2661d1251efc7384ea61837bd92e1dd886dad0b3aeae2f17b09c98d0d2010ac41b07c569c89c069ba9a5de463e1dbdd2f0a4b0f2e2563a43258f448a95158df6d4772fe2ff104580e2137b096be6
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV +1"  group-title="UK",ITV +1
-http://play.uktvnow.net:1935/live/itvencore.stream/media_289.m3u8?wowzasessionid=898268946&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MzM6NDIgQU0maGFzaF92YWx1ZT0vS0RmTnVadjM2OW5pZk02aDFsTXRnPT0mdmFsaWRtaW51dGVzPTIw
+http://213.200.110.120/live/11.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d377662a76c624949d94ca2e3a7a8dbc12d9b2a5a8f76a165b19cbd02988ec461927e6bc4a7dbb5759334e2661d1251efc7384ea61837bd92e1dd886dad0b3aeae2f17b09c98d0d2010ac41b07c569c89c069ba9a5de463e1dbdd2f0a4b0f2e2563a43258f448a95158df6d4772fe2ff104580e2137b096be6
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 2"  group-title="UK",ITV 2
 http://play.uktvnow.net:1935/live/itv2.stream/media_761.m3u8?wowzasessionid=1043881948&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MTk6MTkgQU0maGFzaF92YWx1ZT1DbTFuclF4b1BIdHduc3I1SmFpMGtRPT0mdmFsaWRtaW51dGVzPTIw
@@ -168,12 +171,13 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://dooweet.org/en/wp-content/uploads/2015/01/VEVO-Android-App-For-Music1.png" tvg-name="VEVO 3"  group-title="MUSIC",VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BBC KIDS"  group-title="KIDS",BBC KIDS
-http://149.56.117.195:9080/BBCThree/playlist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Disney Junior"  group-title="KIDS",Disney Junior
-http://149.56.117.195:9080/DisneyJrUK/tracks-1,2/index.m3u8
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://static1.squarespace.com/static/53f47c76e4b0577e1fca2ed4/53f491d1e4b00f44ad77f802/5412cf40e4b0415dc2d450e5/1414405893686/Virgin_logo.jpg?format=1000w" tvg-name="Vigin"  group-title="MUSIC",Virgin
+rtmp://fms.105.net:1935/live/virgin1
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="National Geo"  group-title="MIX",National Geo
-http://167.114.102.27/live/VExiRRPxNcodGFN_Imj2nQ/1473362987/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
+http://167.114.102.27/live/INFf0fy2eywSVbIFsQYRzw/1473529707/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
+
+
+
+
 
