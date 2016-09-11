@@ -24,6 +24,9 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/gemtv%20C.png" tvg-name="GEM TV"  group-title="GEM",GEM TV
 http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo=" " tvg-name="ONYX"  group-title="GEM",ONYX
+http://fluplus1.giniko.com/gemonyx/gemonyx/index.m3u8?token=5b798f8937934f78b30774b5917898b48640
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/river%20C.png" tvg-name="GEM RIVER"  group-title="GEM",GEM RIVER
 http://63.237.48.28/ios/GEM_RIVER/GEM_RIVER.m3u8
 
@@ -185,11 +188,6 @@ rtmp://fms.105.net:1935/live/virgin1
 http://163.172.150.10:8081/live/vh1-hq/chunks.m3u8?nimblesessionid=16417889&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE2IDk6MTY6MjAgQU0maGFzaF92YWx1ZT1rUVBJeExNUDVBRGNqQUxtNUxVSy9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuODAuOTgmc3RybV9sZW49MTE=
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="National Geo"  group-title="MIX",National Geo
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HBO"  group-title="MIX",HBO
-http://163.172.165.95:8081/live/hbo-hq/chunks.m3u8?nimblesessionid=17523597&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE2IDk6MjM6NTggQU0maGFzaF92YWx1ZT1HbWFPZUhWaXlZUHlRTTEwSzMvcWtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuODAuOTgmc3RybV9sZW49MTE=
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery CH"  group-title="MIX",Discovery CH
 http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/11/amlst:mainstream/demotiki11.m3u8?op_id=19&userId=0&channelId=40686&stime=1473587860&etime=1473674260&token=07f64fcc31db7b69c3691&time=1473587954707
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet"  group-title="MIX",Animal Planet
