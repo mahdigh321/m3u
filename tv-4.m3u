@@ -147,21 +147,27 @@ http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/parstv%20C.png" tvg-name="PARS TV"  group-title="Persian Tv-3",PARS TV
 http://63.237.48.28/ios/PARSTV/PARSTV.m3u8
 
-#EXTINF:0, tvg-id="id2" tvg-logo="New Logo" tvg-name="ITV 1"  group-title="UK",ITV 1
+#EXTINF:0, tvg-id="id2" tvg-logo="http://www.stream2watch.cc/images/streams/116/stm/14592628935664.jpg" tvg-name="ITV 1"  group-title="UK",ITV 1
 http://213.200.110.120/live/11.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d377662a76c624949d94ca2e3a7a8dbc12d9b2a5a8f76a165b19cbd02988ec461927e6bc4a7dbb5759334e2661d1251efc7384ea61837bd92e1dd886dad0b3aeae2f17b09c98d0d2010ac41b07c569c89c069ba9a5de463e1dbdd2f0a4b0f2e2563a43258f448a95158df6d4772fe2ff104580e2137b096be6
 
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 2"  group-title="UK",ITV 2
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/117/stm/14592629385743.jpg" tvg-name="ITV 2"  group-title="UK",ITV 2
 http://live-1165.gv2.edge.filmon.com/live/67.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f761728109edd3576efd32941699a84c48cdb9467dab365410041a3eb66fc57ddae1ecf5c9a6f1e3ee1a97f1e388c33693d45e395cca7746b217eaf5dc08e2b7f82b8c23136328872247f0d67f38facb7f36af97b90592b2b67643609c7b8fb0a5a056146913f7cd9a78b66a2a884438018bf67eb5
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 3"  group-title="UK",ITV 3
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/118/stm/14592629682562.jpg" tvg-name="ITV 3"  group-title="UK",ITV 3
+http://live-1165.gv2.edge.filmon.com/live/26.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f7617281099109f20e172c38d1ce276e82aceb808effc9742aa34b78e9e666383a2dc772abb5d22ba5cfca13f495b59264d7e67f1b73e9360a8a88d7366362169073a14e5216195a9e58faa21e234cab04acf08b76cf0ce537dd95bf3def0b6708adf83bf2c90d08eb0a53740e9c663cb6746c1bc5
 
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 4"  group-title="UK",ITV 4
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/119/stm/14592630149048.jpg" tvg-name="ITV 4"  group-title="UK",ITV 4
 http://live-1165.gv2.edge.filmon.com/live/101.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f7617281097fa44fbcaa40d7e88256b1e3fc78acc6282652398ab7656e30fa349290e4ff2e7efce24d1c05eacf76de974d438321c3cbf7c524e31046ee55d23ae6daaaadf11f892c4c73c183be3f2a9b89d9b78de1053932ba7d3f8dabfbdb50a371d9ecf004f593b19b25304501031acb356f130a
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV Be"  group-title="UK",ITV Be
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/120/stm/14592631398039.png" tvg-name="ITV Be"  group-title="UK",ITV Be
 http://live-823.gv2.edge.filmon.com/live/3211.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f7617281090821ecd72166646e0c7164903f72ac0e4d0fef18ccb7cdd44f6152bf5370a4914e5ddb87a95b39bab5bc4c6dc1cdbc8ffdbcaa03018c9718f7732d84250b0ade714b74b7bdc9c207aba661b894eddb515e65804909b4a5a6311ce07d809b4d00695a8077628a37ee3a72e2e5dedac3ef
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/102/stm/14592616936782.jpg" tvg-name="CHANNEL 4"  group-title="UK",CHANNEL 4
+http://198.179.30.101/live/2.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f761728109366da8acf25daad14933ace45493ad381b37a82973bc7fe504ef90e9cf0bb877c1b940c679e2d3d9a22b8c8f75064fcd82676cc6c2f2c66e1b81248b16bfd45cc93568a1fd446bca76d16b72febc9c7583cbf33a9eb5b49aa4e2fe8680ac3126b6091fc03df761b3ba0047f0bc222d3e
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/2791/stm/14733214876309.png" tvg-name="CHANNEL 5"  group-title="UK",CHANNEL 5
+http://live-823.gv2.edge.filmon.com/live/851.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f761728109427ec6bbd25a9995b418a23340cd404fda827c4d8f13a88c724e83034c13825b2d9ab6ca99acc59fa00f858da6c39b065a64654fb3f733f4c9f6b96baca23c962ed89f8cc30c67aeb601f4e33b89dbc79ad099ac89b41d032ab4eaeb8a48b495abacf60cbacc86cea1a86ed03862f469
 
 #EXTINF:0, tvg-id="id2" tvg-logo="http://dooweet.org/en/wp-content/uploads/2015/01/VEVO-Android-App-For-Music1.png" tvg-name="VEVO 1"  group-title="MUSIC",VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
@@ -175,9 +181,13 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://static1.squarespace.com/static/53f47c76e4b0577e1fca2ed4/53f491d1e4b00f44ad77f802/5412cf40e4b0415dc2d450e5/1414405893686/Virgin_logo.jpg?format=1000w" tvg-name="Vigin"  group-title="MUSIC",Virgin
 rtmp://fms.105.net:1935/live/virgin1
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="National Geo"  group-title="MIX",National Geo
-http://167.114.102.27/live/INFf0fy2eywSVbIFsQYRzw/1473529707/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/78/stm/14618390058468.png" tvg-name="VH1"  group-title="MUSIC",VH1
+http://163.172.150.10:8081/live/vh1-hq/chunks.m3u8?nimblesessionid=16417889&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE2IDk6MTY6MjAgQU0maGFzaF92YWx1ZT1rUVBJeExNUDVBRGNqQUxtNUxVSy9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuODAuOTgmc3RybV9sZW49MTE=
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="National Geo"  group-title="MIX",National Geo
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HBO"  group-title="MIX",HBO
+http://163.172.165.95:8081/live/hbo-hq/chunks.m3u8?nimblesessionid=17523597&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE2IDk6MjM6NTggQU0maGFzaF92YWx1ZT1HbWFPZUhWaXlZUHlRTTEwSzMvcWtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuODAuOTgmc3RybV9sZW49MTE=
 
 
 
