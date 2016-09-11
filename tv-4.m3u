@@ -201,7 +201,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 rtmp://fms.105.net:1935/live/virgin1
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/78/stm/14618390058468.png" tvg-name="VH1"  group-title="MUSIC",VH1
-HTTP://163.172.150.10:8081/live/vh1-hq/chunks.m3u8?nimblesessionid=16570158&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE2IDI6Mzc6MDkgUE0maGFzaF92YWx1ZT1BVGRPYkhNc0ljNE12S2NaamQ2VXdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuODAuOTgmc3RybV9sZW49MTE=
+http://163.172.150.10:8081/live/vh1-hq/chunks.m3u8?nimblesessionid=16570158&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE2IDI6Mzc6MDkgUE0maGFzaF92YWx1ZT1BVGRPYkhNc0ljNE12S2NaamQ2VXdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuODAuOTgmc3RybV9sZW49MTE=
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="National Geo"  group-title="MIX",National Geo
 http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/11/amlst:mainstream/demotiki11.m3u8?op_id=19&userId=0&channelId=40686&stime=1473587860&etime=1473674260&token=07f64fcc31db7b69c3691&time=1473587954707
