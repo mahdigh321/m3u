@@ -172,6 +172,22 @@ http://198.179.30.101/live/2.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/2791/stm/14733214876309.png" tvg-name="CHANNEL 5"  group-title="UK",CHANNEL 5
 http://live-823.gv2.edge.filmon.com/live/851.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f761728109427ec6bbd25a9995b418a23340cd404fda827c4d8f13a88c724e83034c13825b2d9ab6ca99acc59fa00f858da6c39b065a64654fb3f733f4c9f6b96baca23c962ed89f8cc30c67aeb601f4e33b89dbc79ad099ac89b41d032ab4eaeb8a48b495abacf60cbacc86cea1a86ed03862f469
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/109/stm/14592623094375.jpg" tvg-name="E 4"  group-title="UK",E 4
+http://live-1180.gv2.edge.filmon.com/live/65.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3504ef41083035b2a242a9d5b1ce091cfb3f8f8bc083d05cfaba4409b3798ffef6956700f3a56f3d889d4fb6c8d0f0024bde80702b6d0526cd9f50b1ee654ece6f873aaa7e71e165af5b9dcbef8dcc87ba903efcc5432e97368cdf3cac93667290dd54afd55581f9915f7d4335d28ec1b4bf988aaa3450eb6
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/104/stm/14592618422105.jpg" tvg-name="5USA"  group-title="UK",5USA
+http://live-1180.gv2.edge.filmon.com/live/845.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3504ef41083035b2a47d2742aa67fc99b93826f69ccaf00c923a8c3bc9f4ba40d72a22bb3c27e479baa338aa2843f26a3d74237e145789fac61ac9f9a02122512082327ede6a8651ae46f98376766558d6697da5550215e353b258c03c2b2febbc66b2fde33ac1f9029d8510985cbd64266a49f885267b626
+
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/123/stm/14592636254305.jpg" tvg-name="More4"  group-title="UK",More4
+http://live-1180.gv2.edge.filmon.com/live/97.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3504ef41083035b2a724f297848e06a5508f7c0849c3033cecf3581bc555bdace26090d98f294c9b5ce8096505852f7d353f624932972945d6cd76b4c6e3d490c835b0c59716230d7ad300b1827d120f9c65d4225a07361a5d974c990b5c98486eee54204c87028d0c809a0aa0a8830e17f2eb54d7f5e80be
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/127/stm/14592643165199.jpg" tvg-name="Really"  group-title="UK",Really
+http://live-823.gv2.edge.filmon.com/live/372.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3504ef41083035b2af2490841287a453fc609f8a114a409cc68f16a710c89cd751538ad7860ec7a732582f80b899435d853be6a0493aa56a938b6e512d5535704650ff018cc5ca657f9f470ec32b78e224cdb20fe66a7cc5c036b669826cf576d3b2339bb8fa3e8276adb6fba5dbbc5a58e31acd0464bec6a
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/2791/stm/14733214876309.png" tvg-name="5*"  group-title="UK",5*
+http://live-823.gv2.edge.filmon.com/live/851.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3868f5762d54289bed52b1c96b91cdb57862184a20a72adc807cec597812f87b18de08153e3e1e7b2bb29d2dba172c6f38a887504035497f42a81e2d23062c17450dda87c30ae3a0df427cbca85ee1c10487e999f18276a89f154623e91be5aae3ca0111ed281a405a87919a834948b2cc637694f44c7d065
+
 #EXTINF:0, tvg-id="id2" tvg-logo="http://dooweet.org/en/wp-content/uploads/2015/01/VEVO-Android-App-For-Music1.png" tvg-name="VEVO 1"  group-title="MUSIC",VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
