@@ -147,20 +147,21 @@ http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/parstv%20C.png" tvg-name="PARS TV"  group-title="Persian Tv-3",PARS TV
 http://63.237.48.28/ios/PARSTV/PARSTV.m3u8
 
-#EXTINF:0, tvg-id="id2" tvg-logo="New Logo" tvg-name="ITV"  group-title="UK",ITV
+#EXTINF:0, tvg-id="id2" tvg-logo="New Logo" tvg-name="ITV 1"  group-title="UK",ITV 1
 http://213.200.110.120/live/11.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d377662a76c624949d94ca2e3a7a8dbc12d9b2a5a8f76a165b19cbd02988ec461927e6bc4a7dbb5759334e2661d1251efc7384ea61837bd92e1dd886dad0b3aeae2f17b09c98d0d2010ac41b07c569c89c069ba9a5de463e1dbdd2f0a4b0f2e2563a43258f448a95158df6d4772fe2ff104580e2137b096be6
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV +1"  group-title="UK",ITV +1
-http://213.200.110.120/live/11.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d377662a76c624949d94ca2e3a7a8dbc12d9b2a5a8f76a165b19cbd02988ec461927e6bc4a7dbb5759334e2661d1251efc7384ea61837bd92e1dd886dad0b3aeae2f17b09c98d0d2010ac41b07c569c89c069ba9a5de463e1dbdd2f0a4b0f2e2563a43258f448a95158df6d4772fe2ff104580e2137b096be6
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 2"  group-title="UK",ITV 2
-http://play.uktvnow.net:1935/live/itv2.stream/media_761.m3u8?wowzasessionid=1043881948&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MTk6MTkgQU0maGFzaF92YWx1ZT1DbTFuclF4b1BIdHduc3I1SmFpMGtRPT0mdmFsaWRtaW51dGVzPTIw
+http://live-1165.gv2.edge.filmon.com/live/67.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f761728109edd3576efd32941699a84c48cdb9467dab365410041a3eb66fc57ddae1ecf5c9a6f1e3ee1a97f1e388c33693d45e395cca7746b217eaf5dc08e2b7f82b8c23136328872247f0d67f38facb7f36af97b90592b2b67643609c7b8fb0a5a056146913f7cd9a78b66a2a884438018bf67eb5
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 3"  group-title="UK",ITV 3
-http://play.uktvnow.net:1935//live/itv3.stream/media_99.m3u8?wowzasessionid=1816388437&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6NDA6MjIgQU0maGFzaF92YWx1ZT0xMFRxNDNkaFNiN2JuTWwrb0I3anN3PT0mdmFsaWRtaW51dGVzPTIw
+
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV 4"  group-title="UK",ITV 4
-http://play.uktvnow.net:1935/live/itv4.stream/media_3013.m3u8?wowzasessionid=1556248046&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMTYgMTE6MjI6MjEgQU0maGFzaF92YWx1ZT1qSnRGZWsxd1lXMHZ1K1FtUlp5Q0x3PT0mdmFsaWRtaW51dGVzPTIw
+http://live-1165.gv2.edge.filmon.com/live/101.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f7617281097fa44fbcaa40d7e88256b1e3fc78acc6282652398ab7656e30fa349290e4ff2e7efce24d1c05eacf76de974d438321c3cbf7c524e31046ee55d23ae6daaaadf11f892c4c73c183be3f2a9b89d9b78de1053932ba7d3f8dabfbdb50a371d9ecf004f593b19b25304501031acb356f130a
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ITV Be"  group-title="UK",ITV Be
+http://live-823.gv2.edge.filmon.com/live/3211.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f7617281090821ecd72166646e0c7164903f72ac0e4d0fef18ccb7cdd44f6152bf5370a4914e5ddb87a95b39bab5bc4c6dc1cdbc8ffdbcaa03018c9718f7732d84250b0ade714b74b7bdc9c207aba661b894eddb515e65804909b4a5a6311ce07d809b4d00695a8077628a37ee3a72e2e5dedac3ef
 
 #EXTINF:0, tvg-id="id2" tvg-logo="http://dooweet.org/en/wp-content/uploads/2015/01/VEVO-Android-App-For-Music1.png" tvg-name="VEVO 1"  group-title="MUSIC",VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
