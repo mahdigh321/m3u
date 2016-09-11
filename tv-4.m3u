@@ -151,8 +151,7 @@ http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
 http://63.237.48.28/ios/PARSTV/PARSTV.m3u8
 
 #EXTINF:0, tvg-id="id2" tvg-logo="http://www.stream2watch.cc/images/streams/116/stm/14592628935664.jpg" tvg-name="ITV 1"  group-title="UK",ITV 1
-http://213.200.110.120/live/11.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d377662a76c624949d94ca2e3a7a8dbc12d9b2a5a8f76a165b19cbd02988ec461927e6bc4a7dbb5759334e2661d1251efc7384ea61837bd92e1dd886dad0b3aeae2f17b09c98d0d2010ac41b07c569c89c069ba9a5de463e1dbdd2f0a4b0f2e2563a43258f448a95158df6d4772fe2ff104580e2137b096be6
-
+http://163.172.170.33:8081/live/itv1-hq/chunks.m3u8?nimblesessionid=16980770&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE2IDY6MDk6NDEgUE0maGFzaF92YWx1ZT1JQStMeFJRWnNDSEZJL043ZUhNZkZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuODAuOTgmc3RybV9sZW49MTI=
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.stream2watch.cc/images/streams/117/stm/14592629385743.jpg" tvg-name="ITV 2"  group-title="UK",ITV 2
 http://live-1165.gv2.edge.filmon.com/live/67.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ba48e3f761728109edd3576efd32941699a84c48cdb9467dab365410041a3eb66fc57ddae1ecf5c9a6f1e3ee1a97f1e388c33693d45e395cca7746b217eaf5dc08e2b7f82b8c23136328872247f0d67f38facb7f36af97b90592b2b67643609c7b8fb0a5a056146913f7cd9a78b66a2a884438018bf67eb5
