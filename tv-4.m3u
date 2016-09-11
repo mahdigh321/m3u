@@ -189,6 +189,8 @@ http://163.172.150.10:8081/live/vh1-hq/chunks.m3u8?nimblesessionid=16417889&wmsA
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HBO"  group-title="MIX",HBO
 http://163.172.165.95:8081/live/hbo-hq/chunks.m3u8?nimblesessionid=17523597&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE2IDk6MjM6NTggQU0maGFzaF92YWx1ZT1HbWFPZUhWaXlZUHlRTTEwSzMvcWtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuODAuOTgmc3RybV9sZW49MTE=
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery CH"  group-title="MIX",Discovery CH
+http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/11/amlst:mainstream/demotiki11.m3u8?op_id=19&userId=0&channelId=40686&stime=1473587860&etime=1473674260&token=07f64fcc31db7b69c3691&time=1473587954707
 
-
-
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet"  group-title="MIX",Animal Planet
+http://167.114.102.27/live/BjguWlusORC1r-PwtV4QZg/1473599983/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
