@@ -25,7 +25,7 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo=" " tvg-name="ONYX"  group-title="GEM",ONYX
-http://fluplus1.giniko.com/gemonyx/gemonyx/index.m3u8?token=5b798f8937934f78b30774b5917898b48640
+http://fluplus1.giniko.com/gemonyx/gemonyx/index-1473592785-now.m3u8?token=5b798f8937934f78b30774b5917898b486400
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/river%20C.png" tvg-name="GEM RIVER"  group-title="GEM",GEM RIVER
 http://63.237.48.28/ios/GEM_RIVER/GEM_RIVER.m3u8
@@ -58,7 +58,7 @@ http://63.237.48.28/ios/PMC/PMC.m3u8
 http://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master_Layer2.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://entworld.net/wp-content/uploads/2016/03/5b44eb83-7749-43da-b1c7-e58859e71501.png" tvg-name="BBC Persian"  group-title="Persian Tv-2",BBC Persian
-http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8?
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://63.237.48.3/ipnx/media/livetv/thumbs/farsi%201%20c.png" tvg-name="FARSI1"  group-title="Persian Tv-2",FARSI1
 http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
