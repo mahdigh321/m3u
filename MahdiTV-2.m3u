@@ -2,11 +2,9 @@
 #EXTM3U
 
 
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MANOTO"  group-title="IRAN",Manoto
 
 https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
-
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIB-1"  group-title="IRIB",TV1
@@ -14,10 +12,51 @@ https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 https://cdn1live.irib.ir/live-channels/smil:tv1/chunklist_b307200_slFa.m3u8?s=snRU77alehMobq3_h_mdPA&t=1586705087
 
 
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-2"  group-title="IRIB",TV2
 
 https://cdn1live.irib.ir/live-channels/smil:tv2/chunklist_b438272_slfa.m3u8?s=hLg2Ij8GKD0uwxGsCYZ4vg&t=1586705191
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-3"  group-title="IRIB",TV3
+
+https://cdn1live.irib.ir/live-channels/smil:tv3/chunklist_b307200_slFa.m3u8?s=LGxq0MBBX22njUmPJPfteg&t=1586705224
+1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-4"  group-title="IRIB",TV4
+
+https://cdn1live.irib.ir/live-channels/smil:tv4/chunklist_b307200_slFa.m3u8?s=nunzDs1dmdF1XvLVcwCieg&t=1586705262
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-2"  group-title="IRIB",TV5
+
+https://cdn1live.irib.ir/live-channels/smil:tv5/chunklist_b307200_slFa.m3u8?s=2S6DtyGx-gbJrsZufxhIqw&t=1586705287
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBNasim"  group-title="IRIB",Nasim
+
+https://cdn1live.irib.ir/live-channels/smil:nasim/chunklist_b307200_slFa.m3u8?s=nTzEozirEk2S3q0hjHCtiQ&t=1586705584
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBKhabar"  group-title="IRIB",Khabar
+
+https://cdn1live.irib.ir/live-channels/smil:irinn/chunklist_b307200_slFa.m3u8?s=0GdOekpwL49Tv4lEfslhEg&t=1586705330
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBAmozesh"  group-title="IRIB",Amozesh
+
+https://cdn1live.irib.ir/live-channels/smil:amouzesh/chunklist_b307200_slFa.m3u8?s=pvHh_xYNZ5OyqS6a0NCpjg&t=1586705369
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-2"  group-title="IRIB",Varzesh
+
+https://cdn1live.irib.ir/live-channels/smil:varzesh/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBMOstanad"  group-title="IRIB",Mostanad
+
+https://cdn1live.irib.ir/live-channels/smil:mostanad/chunklist_b307200_slFa.m3u8?s=5sDKcd_t1G_VMaD4S6R12Q&t=1586705504
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBKOdak"  group-title="IRIB",KOdak
+
+https://cdn1live.irib.ir/live-channels/smil:pouya/chunklist_b307200_slFa.m3u8?s=EQMD5z3q8DvcikDYwjDDYQ&t=1586705549
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBTamasha"  group-title="IRIB",Tamasha
+
+https://cdn1live.irib.ir/live-channels/smil:tamasha/chunklist_b307200_slFa.m3u8?s=lgTK_MkshtchK_UFPZaiYw&t=1586705627
