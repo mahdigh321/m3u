@@ -12,7 +12,7 @@ https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 https://agvc16s4pwkfym0tbram-cbmusw.p5cdn.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md5=0CEiWWLMpjL_FBJJMmIRtQ&expires=1586793953
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://bayanbox.ir/view/7415645783760047914/Untitled-1.jpg" tvg-name="RadioJavan"  group-title="Persian",Radio Javan
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Persian",Radio Javan
 
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1059046942_b2892000.m3u8
 
