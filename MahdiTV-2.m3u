@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MANOTO"  group-title="IRAN",Manoto
+
+https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
+
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIB-1"  group-title="IRIB",TV1
+
+https://cdn1live.irib.ir/live-channels/smil:tv1/chunklist_b307200_slFa.m3u8?s=snRU77alehMobq3_h_mdPA&t=1586705087
+
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-2"  group-title="IRIB",TV2
+
+https://cdn1live.irib.ir/live-channels/smil:tv2/chunklist_b438272_slfa.m3u8?s=hLg2Ij8GKD0uwxGsCYZ4vg&t=1586705191
+
+
+
