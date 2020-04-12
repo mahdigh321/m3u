@@ -70,7 +70,7 @@ https://ch.iptvmate.net/bd9f6f65d7dcb1e623088d33adb79b3b.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-2"  group-title="IRIB",Varzesh
 
-https://cdn1live.irib.ir/live-channels/smil:varzesh/chunklist.m3u8
+https://livetv.persianleague.com/live/varzesh/chunks.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBMOstanad"  group-title="IRIB",Mostanad
 
