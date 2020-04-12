@@ -2,12 +2,12 @@
 #EXTM3U
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.manoto/icon/icon.png" tvg-name="MANOTO"  group-title="Persian",Manoto
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.manoto/icon/icon.png" tvg-name="manoto"  group-title="Persian",manoto
 
 https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/pmc-music-hd-tv.png" tvg-name="PMC"  group-title="Persian",PMC
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/pmc-music-hd-tv.png" tvg-name="PMC"  group-title="Persian",PMC Music
 
 https://agvc16s4pwkfym0tbram-cbmusw.p5cdn.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md5=0CEiWWLMpjL_FBJJMmIRtQ&expires=1586793953
 
