@@ -21,7 +21,7 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1059046942_b2892000.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1396000.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIB-1"  group-title="IRIB",TV1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB-1"  group-title="IRIB",TV1
 
 https://cdn1live.irib.ir/live-channels/smil:tv1/chunklist_b307200_slFa.m3u8?s=K6U1adBTjNppGtuSnw_ZrA&t=1586718233
 
