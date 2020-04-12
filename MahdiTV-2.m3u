@@ -7,6 +7,11 @@
 https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PMC"  group-title="Persian",PMC
+
+https://agvc16s4pwkfym0tbram-cbmusw.p5cdn.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md5=0CEiWWLMpjL_FBJJMmIRtQ&expires=1586793953
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIB-1"  group-title="IRIB",TV1
 
 https://cdn1live.irib.ir/live-channels/smil:tv1/chunklist_b307200_slFa.m3u8?s=snRU77alehMobq3_h_mdPA&t=1586705087
