@@ -72,16 +72,16 @@ https://ch.iptvmate.net/bd9f6f65d7dcb1e623088d33adb79b3b.m3u8
 
 https://livetv.persianleague.com/live/varzesh/chunks.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBMOstanad"  group-title="IRIB",Mostanad
+:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBMOstanad"  group-title="IRIB",Mostanad
 
 https://cdn1live.irib.ir/live-channels/smil:mostanad/chunklist_b307200_slFa.m3u8?s=5sDKcd_t1G_VMaD4S6R12Q&t=1586705504
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBKOdak"  group-title="IRIB",KOdak
+:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBKOdak"  group-title="IRIB",KOdak
 
 https://cdn1live.irib.ir/live-channels/smil:pouya/chunklist_b307200_slFa.m3u8?s=EQMD5z3q8DvcikDYwjDDYQ&t=1586705549
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBTamasha"  group-title="IRIB",Tamasha
+:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBTamasha"  group-title="IRIB",Tamasha
 
 https://cdn1live.irib.ir/live-channels/smil:tamasha/chunklist_b307200_slFa.m3u8?s=lgTK_MkshtchK_UFPZaiYw&t=1586705627
