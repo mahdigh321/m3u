@@ -18,8 +18,7 @@ https://cdn1live.irib.ir/live-channels/smil:tv2/chunklist_b438272_slfa.m3u8?s=hL
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-3"  group-title="IRIB",TV3
 
-https://cdn1live.irib.ir/live-channels/smil:tv3/chunklist_b307200_slFa.m3u8?s=LGxq0MBBX22njUmPJPfteg&t=1586705224
-1
+https://sa20.telewebion.com/devices/_definst_/tv3-500k.stream/chunks.m3u8?nimblesessionid=122069726&wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTIvMjAyMCAzOjQyOjUyIFBNJmhhc2hfdmFsdWU9MnczaUkxdnVFRndJOUZLY0ZiNWVLUT09JnZhbGlkbWludXRlcz02MDAw
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-4"  group-title="IRIB",TV4
 
