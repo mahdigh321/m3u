@@ -11,7 +11,11 @@ https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 
 https://streaming.bittubeapp.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md5=lxBki10bKZxZs_48DYfwbQ&expires=1586854800
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Persian",Radio Javan
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Persian",Radio Javan HD
+
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1707454974_b2892000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Persian",Radio Javan SD
 
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w477218630_b1992000.m3u8
 
