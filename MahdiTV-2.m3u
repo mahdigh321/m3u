@@ -16,7 +16,7 @@ https://agvc16s4pwkfym0tbram-cbmusw.p5cdn.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md
 
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1059046942_b2892000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="-----" tvg-name="BBC Farsi"  group-title="Persian",BBC Farsi
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.LN75DdyOHRCrj3v6cYWMAgHaHa&pid=Api&P=0&w=300&h=300" tvg-name="BBC Farsi"  group-title="Persian",BBC Farsi
 
 
 http://162.212.176.222/36bay2/gin/giniko_bbcpersian_800kb_36bay2/tracks-v1a1/mono.m3u8
@@ -25,54 +25,54 @@ http://162.212.176.222/36bay2/gin/giniko_bbcpersian_800kb_36bay2/tracks-v1a1/mon
 
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1396000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="-----" tvg-name="AvAFamily"  group-title="Persian",Ava Family
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.brTHXXtaHzK7xHV1YobV7gHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AvAFamily"  group-title="Persian",Ava Family
 
 http://51.15.115.123/hls/stream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="-----" tvg-name="24BoxTv"  group-title="Persian",24 Box Tv
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/The_Box_logo.svg/1200px-The_Box_logo.svg.png" tvg-name="24BoxTv"  group-title="Persian",24 Box Tv
 
 http://51.158.190.97/hls/stream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB-1"  group-title="IRIB",TV1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 
 https://ch.iptvmate.net/196c309f4404e16f35b0cce3decb629f.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIBtv-2"  group-title="IRIB",TV2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
 
 https://ch.iptvmate.net/bb9437c6b98a07053bc15f2258415d34.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIBtv-3"  group-title="IRIB",TV3
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
 
 https://ch.iptvmate.net/b0e793b43526e268bebfbee6e40d8bd0.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" tvg-name="IRIBtv-4"  group-title="IRIB",TV4
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" tvg-name="IRIB TV4"  group-title="IRIB",IRIB TV4
 
 https://ch.iptvmate.net/fb7a4703c42408e94226a970192754f9.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" tvg-name="IRIBtv-2"  group-title="IRIB",TV5
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" tvg-name="IRIB TV5"  group-title="IRIB",IRIB TV5
 
 https://ch.iptvmate.net/d723b293f970c9ae05a019cac02a429e.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIBNasim"  group-title="IRIB",Nasim
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIB Nasim TV"  group-title="IRIB",Nasim TV
 
 https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBKhabar"  group-title="IRIB",Khabar
+:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBKhabar"  group-title="IRIB",Khabar
 
 https://cdn1live.irib.ir/live-channels/smil:irinn/chunklist_b307200_slFa.m3u8?s=0GdOekpwL49Tv4lEfslhEg&t=1586705330
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBAmozesh"  group-title="IRIB",Amozesh
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JPl0U6NgEkxBqVQ6jYcRcwAAAA&pid=Api&P=0&w=300&h=300" tvg-name="IRIB Amozesh"  group-title="IRIB",Amozesh
 
 https://ch.iptvmate.net/bd9f6f65d7dcb1e623088d33adb79b3b.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBtv-2"  group-title="IRIB",Varzesh
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-ZeGCU0bghXM/WwW-2UuQGbI/AAAAAAAAS4o/nwmBqn_8dKgvRJNXqknsg3zI5mGo-RM6gCLcBGAs/s320/varzesh_tv_ir.png" tvg-name="IRIB Varzesh"  group-title="IRIB",Varzesh TV
 
 https://livetv.persianleague.com/live/varzesh/chunks.m3u8
 
-:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IRIBMOstanad"  group-title="IRIB",Mostanad
+:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/8/89/Mostanad-tv.png/210px-Mostanad-tv.png" tvg-name="IRIB Mostanad"  group-title="IRIB",IRIB Mostanad
 
 https://cdn1live.irib.ir/live-channels/smil:mostanad/chunklist_b307200_slFa.m3u8?s=5sDKcd_t1G_VMaD4S6R12Q&t=1586705504
 
