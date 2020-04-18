@@ -38,6 +38,9 @@ http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="EBC1"  group-title="Persian",EBC1
 https://ch.iptvmate.net/7f9781166934f4f11bdd42f0bd562cd3.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="Navahang"  group-title="Persian",NAVAHANG HD
+http://163.172.134.85/hls/stream.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
 https://ch.iptvmate.net/dccf0aac0bf6de895e0e28014ec6588c.m3u8
 
