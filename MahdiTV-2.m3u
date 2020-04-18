@@ -36,6 +36,31 @@ http://51.15.115.123/hls/stream.m3u8
 
 http://51.158.190.97/hls/stream.m3u8
 
+
+#EXTINF:-1,FREESAT | GEM TV HD
+https://ch.iptvmate.net/dccf0aac0bf6de895e0e28014ec6588c.m3u8
+#EXTINF:-1,FREESAT | GEM SERIES HD
+https://ch.iptvmate.net/27777d3134cbc08fa93fc6f991e4964d.m3u8
+#EXTINF:-1,FREESAT | GEM CLASSIC HD
+https://ch.iptvmate.net/99790f43ad1cd74106884770089e2ac6.m3u8
+#EXTINF:-1,FREESAT | GEM KIDS HD
+https://ch.iptvmate.net/46332ac7c984502a5580c49c2ef3a334.m3u8
+#EXTINF:-1,FREESAT | GEM Junior HD
+https://ch.iptvmate.net/78a3d4df4ba5fc695d321b55d34ddf96.m3u8
+#EXTINF:-1,FREESAT | GEM USA HD
+https://ch.iptvmate.net/cc7bacc2b28165967c060e10c9ac1f44.m3u8
+#EXTINF:-1,FREESAT | GEM DRAMA HD
+https://ch.iptvmate.net/2c95cc7c25327a811c526f80b907c31d.m3u8
+#EXTINF:-1,FREESAT | GEM RIVER HD
+https://ch.iptvmate.net/20ea124b2def37835051f8fe0208c2be.m3u8
+#EXTINF:-1,FREESAT | GEM RUBIX HD
+https://ch.iptvmate.net/82c2aae3aa0a46e029b672cd4bebc47e.m3u8
+#EXTINF:-1,FREESAT | GEM Bollywood HD
+https://ch.iptvmate.net/a2615c6a8a63860ee9a2cfa3e63524d0.m3u8
+#EXTINF:-1,FREESAT | MIFA Music HD
+https://ch.iptvmate.net/c17220ff3819bba693476fda5d6eaa9e.m3u8
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 
 https://ch.iptvmate.net/196c309f4404e16f35b0cce3decb629f.m3u8
