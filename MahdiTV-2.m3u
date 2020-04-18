@@ -40,6 +40,12 @@ http://163.172.131.60/hls/stream.m3u8
 
 http://51.158.190.97/hls/stream.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="Cine Film"  group-title="Persian",Cine Film
+http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="Cine Series"  group-title="Persian",Cine Series
+http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
 https://ch.iptvmate.net/dccf0aac0bf6de895e0e28014ec6588c.m3u8
