@@ -29,7 +29,7 @@ http://163.172.131.60/hls/stream.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/The_Box_logo.svg/1200px-The_Box_logo.svg.png" tvg-name="24BoxTv"  group-title="Persian",24 Box Tv
 http://51.158.190.97/hls/stream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="Cine Film"  group-title="Persian",Cine Film
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://images.app.goo.gl/KmbAvzxMcfUoCTzM8" tvg-name="Cine Film"  group-title="Persian",Cine Film
 http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="Cine Series"  group-title="Persian",Cine Series
