@@ -41,13 +41,13 @@ https://ch.iptvmate.net/7f9781166934f4f11bdd42f0bd562cd3.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_qonn-mNtoWrv8KQQFdcKkkW-PELF84jxDIESyykdQjgQGSi9&usqp=CAU" tvg-name="Navahang"  group-title="Persian",NAVAHANG HD
 http://163.172.134.85/hls/stream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
 https://ch.iptvmate.net/dccf0aac0bf6de895e0e28014ec6588c.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="GEM SERIES HD"  group-title="Persian",GEM SERIES HD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/gem-series.jpg" tvg-name="GEM SERIES HD"  group-title="Persian",GEM SERIES HD
 https://ch.iptvmate.net/27777d3134cbc08fa93fc6f991e4964d.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="GEM CLASSIC HD"  group-title="Persian",GEM CLASSIC HD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1SUg41qAx4EpKu2p6LqTJcF4kV1SiLHwVVqtuxEMxhQKw9mAE&usqp=CAU" tvg-name="GEM CLASSIC HD"  group-title="Persian",GEM CLASSIC HD
 https://ch.iptvmate.net/99790f43ad1cd74106884770089e2ac6.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="---" tvg-name="GEM KIDS HD"  group-title="Persian",GEM KIDS HD
