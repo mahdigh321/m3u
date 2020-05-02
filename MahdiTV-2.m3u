@@ -77,6 +77,9 @@ https://ch.iptvmate.net/a2615c6a8a63860ee9a2cfa3e63524d0.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS86p7uGUiI4BwcewUYvi52ZKxWnwAXPyDx3tMGc2tuTY2INcz6&usqp=CAU" tvg-name="GEM MUSIC HD"  group-title="Persian",GEM MUSIC HD
 https://ch.iptvmate.net/c17220ff3819bba693476fda5d6eaa9e.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Persian",GEM MIFA HD
+https://soltaan.com/iptv/mifa.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 https://ch.iptvmate.net/196c309f4404e16f35b0cce3decb629f.m3u8
 
