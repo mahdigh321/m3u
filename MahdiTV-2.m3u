@@ -77,7 +77,7 @@ https://soltaan.com/iptv/onyx.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-uG0s5LZCeao/WrwCSTPcodI/AAAAAAAAuDI/H7ALyxEcV50X2n7g2kT_-guFdsB4G2mbwCLcBGAs/w640-h480-p-k-no-nu/GEM%2BBollywood.png" tvg-name="GEM Bollywood HD"  group-title="Persian",GEM Bollywood HD
 https://soltaan.com/iptv/gembollywood.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="--" tvg-name="GEM MAXX HD"  group-title="Persian",GEM MAXX HD
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM MAXX HD"  group-title="Persian",GEM MAXX HD
 https://soltaan.com/iptv/maxx.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Persian",GEM MIFA HD
