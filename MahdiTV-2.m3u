@@ -110,3 +110,6 @@ https://ch.iptvmate.net/bd9f6f65d7dcb1e623088d33adb79b3b.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-ZeGCU0bghXM/WwW-2UuQGbI/AAAAAAAAS4o/nwmBqn_8dKgvRJNXqknsg3zI5mGo-RM6gCLcBGAs/s320/varzesh_tv_ir.png" tvg-name="IRIB Varzesh"  group-title="IRIB",Varzesh TV
 https://livetv.persianleague.com/live/varzesh/chunks.m3u8
 
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/10/BBC-arabic.png?ssl=1" tvg-name="BBC Arabic"  group-title="NEWS",BBC Arabic
+http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
