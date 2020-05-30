@@ -128,4 +128,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8?
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?
 
 
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.twofour54.com/en/wp-content/uploads/sites/5/2018/05/euronews-logo-2.jpg" tvg-name="Euronews"  group-title="NEWS",Euronews
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+
+
