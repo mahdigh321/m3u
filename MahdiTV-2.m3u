@@ -109,7 +109,7 @@ https://ch.iptvmate.net/bd9f6f65d7dcb1e623088d33adb79b3b.m3u8
 https://livetv.persianleague.com/live/varzesh/chunks.m3u8
 
 
-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.tvunetworks.com/wp-content/uploads/2016/12/ABC-News_logo.png" tvg-name="ABC News"  group-title="NEWS",ABC News
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.LN75DdyOHRCrj3v6cYWMAgHaHa&pid=Api&P=0&w=300&h=300" tvg-name="BBC Farsi"  group-title="NEWS",BBC Farsi
 http://162.212.176.222/36bay2/gin/giniko_bbcpersian_800kb_36bay2/tracks-v1a1/mono.m3u8
 
@@ -126,3 +126,6 @@ https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8?
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2012/08/bloombergtelevision.gif" tvg-name="Bloomberg TV"  group-title="NEWS",Bloomberg TV
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?
+
+
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
