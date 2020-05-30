@@ -124,4 +124,5 @@ http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_ara
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w300" tvg-name="Al Hadath"  group-title="NEWS",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8?
 
-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2012/08/bloombergtelevision.gif" tvg-name="Bloomberg TV"  group-title="NEWS",Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?
