@@ -46,43 +46,43 @@ http://192.99.102.14:8080/hls/4utv.m3u8
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w1449070321.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
-https://soltaan.com/iptv/gemtv.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/chunklist_w252535476.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/gem-series.jpg" tvg-name="GEM SERIES HD"  group-title="Persian",GEM SERIES HD
-https://soltaan.com/iptv/gemseries.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/chunklist_w2048053843.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1SUg41qAx4EpKu2p6LqTJcF4kV1SiLHwVVqtuxEMxhQKw9mAE&usqp=CAU" tvg-name="GEM CLASSIC HD"  group-title="Persian",GEM CLASSIC HD
-https://soltaan.com/iptv/gemclassic.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/chunklist_w1578181092.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3Z0PaNr6Kok2MxVY78UInyeZXrfIXK7xuGB5Z_9Hs3t3KBu-o&usqp=CAU" tvg-name="GEM KIDS HD"  group-title="Persian",GEM KIDS HD
-https://soltaan.com/iptv/gemkids.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w620451757.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg" tvg-name="GEM JUNIOR HD"  group-title="Persian",GEM JUNIOR HD
-https://soltaan.com/iptv/gemjunior.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1509518075.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSujZgJvEFAq1jRi6FSmIa2vziFJw2p9lR73idV18qVjF6Sfez&usqp=CAU" tvg-name="GEM USA HD"  group-title="Persian",GEM USA HD
-https://soltaan.com/iptv/gemusa.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist_w1504559699.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/852.png" tvg-name="GEM DRAMA HD"  group-title="Persian",GEM DRAMA HD
-https://soltaan.com/iptv/gemdrama.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/chunklist_w1390743673.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.glwiz.com/Pages/HomePage/Images/PERSIAN/LiveTV-08-PER.png" tvg-name="GEM RIVER HD"  group-title="Persian",GEM RIVER HD
-https://soltaan.com/iptv/river.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/river/chunklist_w783522882.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/363.png" tvg-name="GEM RUBIX HD"  group-title="Persian",GEM RUBIX HD
-https://soltaan.com/iptv/rubix.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/chunklist_w908632383.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.VIshdInqLafc3-5USqEtxwHaHa&pid=Api&P=0&w=300&h=300" tvg-name="ONYX TV HD"  group-title="Persian",ONYX TV HD
-https://soltaan.com/iptv/onyx.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w434514463.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-uG0s5LZCeao/WrwCSTPcodI/AAAAAAAAuDI/H7ALyxEcV50X2n7g2kT_-guFdsB4G2mbwCLcBGAs/w640-h480-p-k-no-nu/GEM%2BBollywood.png" tvg-name="GEM Bollywood HD"  group-title="Persian",GEM Bollywood HD
-https://soltaan.com/iptv/gembollywood.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/chunklist_w2102760190.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM MAXX HD"  group-title="Persian",GEM MAXX HD
-https://soltaan.com/iptv/maxx.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/maxx/chunklist_w874190211.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Persian",GEM MIFA HD
-https://soltaan.com/iptv/mifa.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/chunklist_w2063481934.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
