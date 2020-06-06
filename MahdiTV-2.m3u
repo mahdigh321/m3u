@@ -132,3 +132,5 @@ https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" tvg-name="CNN"  group-title="NEWS",CNN
+http://persik.by/stream/6606/411484/10479.m3u8
