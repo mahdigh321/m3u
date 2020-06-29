@@ -1,117 +1,192 @@
 
-#EXTM3U
 
+#EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.manoto/icon/icon.png" tvg-name="manoto"  group-title="Persian",manoto
 https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.mbc.net/default/mediaObject/photos-2018/October/3-10/MBC-PERSIA-Logo_main/original/5e51f4cd538a79370cea6fc01b9d897119add653/MBC-PERSIA-Logo_main.jpg" tvg-name="MBCPersia"  group-title="Persian",MBC Persia
 https://soltaan.com/iptv/mbcpersiahd.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/pmc-music-hd-tv.png" tvg-name="PMC"  group-title="Persian",PMC Music
-https://soltaan.com/iptv/pmc.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Persian",Radio Javan HD
-https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1707454974_b2892000.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Persian",Radio Javan SD
-https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w477218630_b1992000.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.brTHXXtaHzK7xHV1YobV7gHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AvAFamily"  group-title="Persian",Ava Family
 http://51.15.115.123/hls/stream.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.brTHXXtaHzK7xHV1YobV7gHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AvA SERIES"  group-title="Persian",Ava SERIES
 http://163.172.131.60/hls/stream.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/The_Box_logo.svg/1200px-The_Box_logo.svg.png" tvg-name="24BoxTv"  group-title="Persian",24 Box Tv
 http://51.158.190.97/hls/stream.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  1"  group-title="Persian",Persiana 1
 http://51.15.229.209/hls/stream.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1059104731128311808/tFQEBnAb.jpg" tvg-name="Cine Film"  group-title="Persian",Cine Film
 http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-series-us.png" tvg-name="Cine Series"  group-title="Persian",Cine Series
 http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="EBC1"  group-title="Persian",EBC1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w1449070321.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.IGfWr5VKYNP988JmYBtcswHaHa&pid=Api&P=0&w=300&h=300" tvg-name="4U TV"  group-title="Persian",4U TV
 http://192.99.102.14:8080/hls/4utv.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_qonn-mNtoWrv8KQQFdcKkkW-PELF84jxDIESyykdQjgQGSi9&usqp=CAU" tvg-name="Navahang"  group-title="Persian",NAVAHANG HD
-http://163.172.134.85/hls/stream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.seX-HlZsg2iZcMqk9483tAHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AMG TV"  group-title="Persian",AMG TV
+https://nl.live21.ir/hls2/AMG_src.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.lxkX02oWO8AUB3hIaXA2cAHaHa&pid=Api&P=0&w=300&h=300" tvg-name="Parsi Land"  group-title="Persian",Parsi Land
+http://vps.parsiland.net/hls/ParsiLand.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/oxir-tv.jpg" tvg-name="OXIR TV"  group-title="Persian",OXIR TV
+http://212.47.226.211/hls/stream.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livefarsi.com/uploads/tv_image/bazme-asheghan-tv.jpg" tvg-name="Bazm TV"  group-title="Persian",Bazm TV
+https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u8
+
+
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/chunklist_w252535476.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/gem-series.jpg" tvg-name="GEM SERIES HD"  group-title="Persian",GEM SERIES HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/chunklist_w2048053843.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1SUg41qAx4EpKu2p6LqTJcF4kV1SiLHwVVqtuxEMxhQKw9mAE&usqp=CAU" tvg-name="GEM CLASSIC HD"  group-title="Persian",GEM CLASSIC HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/chunklist_w1578181092.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3Z0PaNr6Kok2MxVY78UInyeZXrfIXK7xuGB5Z_9Hs3t3KBu-o&usqp=CAU" tvg-name="GEM KIDS HD"  group-title="Persian",GEM KIDS HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w620451757.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg" tvg-name="GEM JUNIOR HD"  group-title="Persian",GEM JUNIOR HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1509518075.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSujZgJvEFAq1jRi6FSmIa2vziFJw2p9lR73idV18qVjF6Sfez&usqp=CAU" tvg-name="GEM USA HD"  group-title="Persian",GEM USA HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist_w1504559699.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/852.png" tvg-name="GEM DRAMA HD"  group-title="Persian",GEM DRAMA HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/chunklist_w1390743673.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.glwiz.com/Pages/HomePage/Images/PERSIAN/LiveTV-08-PER.png" tvg-name="GEM RIVER HD"  group-title="Persian",GEM RIVER HD
 https://d2e40kvaojifd6.cloudfront.net/stream/river/chunklist_w783522882.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/363.png" tvg-name="GEM RUBIX HD"  group-title="Persian",GEM RUBIX HD
 https://d2e40kvaojifd6.cloudfront.net/stream/rubix/chunklist_w908632383.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.VIshdInqLafc3-5USqEtxwHaHa&pid=Api&P=0&w=300&h=300" tvg-name="ONYX TV HD"  group-title="Persian",ONYX TV HD
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w434514463.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-uG0s5LZCeao/WrwCSTPcodI/AAAAAAAAuDI/H7ALyxEcV50X2n7g2kT_-guFdsB4G2mbwCLcBGAs/w640-h480-p-k-no-nu/GEM%2BBollywood.png" tvg-name="GEM Bollywood HD"  group-title="Persian",GEM Bollywood HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/chunklist_w2102760190.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM MAXX HD"  group-title="Persian",GEM MAXX HD
 https://d2e40kvaojifd6.cloudfront.net/stream/maxx/chunklist_w874190211.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Persian",GEM MIFA HD
+
+
+
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Music",GEM MIFA HD
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/chunklist_w2063481934.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Music",Radio Javan HD
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1707454974_b2892000.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Music",Radio Javan SD
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w477218630_b1992000.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/pmc-music-hd-tv.png" tvg-name="PMC"  group-title="Music",PMC Music
+https://soltaan.com/iptv/pmc.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_qonn-mNtoWrv8KQQFdcKkkW-PELF84jxDIESyykdQjgQGSi9&usqp=CAU" tvg-name="Navahang"  group-title="Music",NAVAHANG HD
+http://163.172.134.85/hls/stream.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Caltex_Records_logo.png" tvg-name="Caltex TV"  group-title="Music",Caltex TV
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
 https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
 https://soltaan.com/iptv/irib3hd.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" tvg-name="IRIB TV4"  group-title="IRIB",IRIB TV4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" tvg-name="IRIB TV5"  group-title="IRIB",IRIB TV5
 https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIB Nasim TV"  group-title="IRIB",Nasim TV
 https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JPl0U6NgEkxBqVQ6jYcRcwAAAA&pid=Api&P=0&w=300&h=300" tvg-name="IRIB Amozesh"  group-title="IRIB",Amozesh
 https://ch.iptvmate.net/bd9f6f65d7dcb1e623088d33adb79b3b.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-ZeGCU0bghXM/WwW-2UuQGbI/AAAAAAAAS4o/nwmBqn_8dKgvRJNXqknsg3zI5mGo-RM6gCLcBGAs/s320/varzesh_tv_ir.png" tvg-name="IRIB Varzesh"  group-title="IRIB",Varzesh TV
 https://sa20.telewebion.com/devices/_definst_/varzesh-500k.stream/chunks.m3u8?nimblesessionid=170201832&wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTYvMjkvMjAyMCA2OjU5OjI2IEFNJmhhc2hfdmFsdWU9SUNVVzB3eWFxeTJtYzN2UUhCQ01kUT09JnZhbGlkbWludXRlcz02MDAw
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.tvunetworks.com/wp-content/uploads/2016/12/ABC-News_logo.png" tvg-name="ABC News"  group-title="NEWS",ABC News
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.LN75DdyOHRCrj3v6cYWMAgHaHa&pid=Api&P=0&w=300&h=300" tvg-name="BBC Farsi"  group-title="NEWS",BBC Farsi
 http://162.212.176.222/36bay2/gin/giniko_bbcpersian_800kb_36bay2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/04/Iran-International-Channel.png" tvg-name="IranInternational"  group-title="NEWS",Iran Internation
 https://live.playstop.me/LS-63503-4/tracks-v1a1/mono.m3u8
@@ -124,6 +199,9 @@ http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_ara
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w300" tvg-name="Al Hadath"  group-title="NEWS",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8?
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="--" tvg-name="Jazeera"  group-title="NEWS",Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2012/08/bloombergtelevision.gif" tvg-name="Bloomberg TV"  group-title="NEWS",Bloomberg TV
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?
 
@@ -134,3 +212,11 @@ http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" tvg-name="CNN"  group-title="NEWS",CNN
 http://persik.by/stream/6606/411484/10479.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s900-c-k-no/photo.jpg" tvg-name="CBS NEWS"  group-title="NEWS",CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" tvg-name="FRANCE NEWS"  group-title="NEWS",FRANCE NEWS
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+
