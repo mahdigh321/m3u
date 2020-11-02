@@ -61,7 +61,7 @@ https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/chunklist_w252535476.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/gem-series.jpg" tvg-name="GEM SERIES HD"  group-title="Persian",GEM SERIES HD
@@ -69,11 +69,11 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/chunklist_w2048053843.m3
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1SUg41qAx4EpKu2p6LqTJcF4kV1SiLHwVVqtuxEMxhQKw9mAE&usqp=CAU" tvg-name="GEM CLASSIC HD"  group-title="Persian",GEM CLASSIC HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/chunklist_w1578181092.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist_960x540_2000k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3Z0PaNr6Kok2MxVY78UInyeZXrfIXK7xuGB5Z_9Hs3t3KBu-o&usqp=CAU" tvg-name="GEM KIDS HD"  group-title="Persian",GEM KIDS HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w620451757.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg" tvg-name="GEM JUNIOR HD"  group-title="Persian",GEM JUNIOR HD
@@ -85,7 +85,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist_w1504559699.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/852.png" tvg-name="GEM DRAMA HD"  group-title="Persian",GEM DRAMA HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/chunklist_w1390743673.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.glwiz.com/Pages/HomePage/Images/PERSIAN/LiveTV-08-PER.png" tvg-name="GEM RIVER HD"  group-title="Persian",GEM RIVER HD
@@ -93,11 +93,11 @@ https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_960x540_2000k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/363.png" tvg-name="GEM RUBIX HD"  group-title="Persian",GEM RUBIX HD
-https://d2e40kvaojifd6.cloudfront.net/stream/rubix/chunklist_w908632383.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_1920x1080_4500k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.VIshdInqLafc3-5USqEtxwHaHa&pid=Api&P=0&w=300&h=300" tvg-name="ONYX TV HD"  group-title="Persian",ONYX TV HD
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w434514463.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-uG0s5LZCeao/WrwCSTPcodI/AAAAAAAAuDI/H7ALyxEcV50X2n7g2kT_-guFdsB4G2mbwCLcBGAs/w640-h480-p-k-no-nu/GEM%2BBollywood.png" tvg-name="GEM Bollywood HD"  group-title="Persian",GEM Bollywood HD
