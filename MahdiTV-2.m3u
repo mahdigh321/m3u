@@ -149,7 +149,7 @@ https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
-https://soltaan.com/iptv/irib3hd.m3u8
+https://cdn1live.irib.ir/live-channels/smil:tv3/chunklist_b307200_slFa.m3u8?s=0xVr_tFffA-6st0pR3TP1w&t=1604329363
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" tvg-name="IRIB TV4"  group-title="IRIB",IRIB TV4
