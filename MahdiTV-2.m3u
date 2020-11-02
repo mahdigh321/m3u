@@ -67,9 +67,21 @@ http://51.15.193.156/hls/stream.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pl.kingofsat.net/jpg/persianajunior.jpg" tvg-name="Persiana  Junior"  group-title="Persian",Persiana Junior
 http://51.158.74.129/hls/stream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Documentry"  group-title="Persian",Persiana Documentry
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Documentry"  group-title="Persian",Persiana Documentry
 http://163.172.174.60/hls/stream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Iranian"  group-title="Persian",Persiana Iranian
+http://51.158.97.214/hls/stream.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Music"  group-title="Persian",Persiana Music
+http://163.172.147.113/hls/stream.m3u8
+
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Family"  group-title="Persian",Persiana Family
+http://51.15.229.209/hls/stream.m3u8
 
 
 
