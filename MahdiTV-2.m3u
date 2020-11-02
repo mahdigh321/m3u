@@ -22,8 +22,7 @@ http://163.172.131.60/hls/stream.m3u8
 http://51.158.190.97/hls/stream.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  1"  group-title="Persian",Persiana 1
-http://51.15.229.209/hls/stream.m3u8
+
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1059104731128311808/tFQEBnAb.jpg" tvg-name="Cine Film"  group-title="Persian",Cine Film
@@ -56,6 +55,21 @@ http://212.47.226.211/hls/stream.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livefarsi.com/uploads/tv_image/bazme-asheghan-tv.jpg" tvg-name="Bazm TV"  group-title="Persian",Bazm TV
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  1"  group-title="Persian",Persiana 1
+http://51.15.229.209/hls/stream.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/persiana-cinema.jpg" tvg-name="Persiana  Cinema"  group-title="Persian",Persiana Cinema
+http://51.15.193.156/hls/stream.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pl.kingofsat.net/jpg/persianajunior.jpg" tvg-name="Persiana  Junior"  group-title="Persian",Persiana Junior
+http://51.158.74.129/hls/stream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Documentry"  group-title="Persian",Persiana Documentry
+
+http://163.172.174.60/hls/stream.m3u8
 
 
 
