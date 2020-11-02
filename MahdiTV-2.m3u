@@ -65,7 +65,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/gem-series.jpg" tvg-name="GEM SERIES HD"  group-title="Persian",GEM SERIES HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/chunklist_w2048053843.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1SUg41qAx4EpKu2p6LqTJcF4kV1SiLHwVVqtuxEMxhQKw9mAE&usqp=CAU" tvg-name="GEM CLASSIC HD"  group-title="Persian",GEM CLASSIC HD
@@ -100,8 +100,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_1920x1080_4500k.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-uG0s5LZCeao/WrwCSTPcodI/AAAAAAAAuDI/H7ALyxEcV50X2n7g2kT_-guFdsB4G2mbwCLcBGAs/w640-h480-p-k-no-nu/GEM%2BBollywood.png" tvg-name="GEM Bollywood HD"  group-title="Persian",GEM Bollywood HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/chunklist_w2102760190.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM MAXX HD"  group-title="Persian",GEM MAXX HD
