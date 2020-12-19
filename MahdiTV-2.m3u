@@ -52,14 +52,14 @@ http://51.210.199.18/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Documentry"  group-title="Persian",Persiana Documentry
-http://163.172.174.60/hls/stream.m3u8
+http://51.210.199.23/hls/stream.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Iranian"  group-title="Persian",Persiana Iranian
-http://51.158.97.214/hls/stream.m3u8
+http://51.210.199.22/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Music"  group-title="Persian",Persiana Music
-http://163.172.147.113/hls/stream.m3u8
+http://51.210.199.24/hls/stream.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Varzesh"  group-title="Persian",Persiana Varzesh
 http://51.210.199.16/hls/stream.m3u8
@@ -67,30 +67,24 @@ http://51.210.199.16/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Family"  group-title="Persian",Persiana Family
-http://51.15.229.209/hls/stream.m3u8
+http://51.210.199.19/hls/stream.m3u8
 
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Classic"  group-title="Persian",Persiana Classic
-http://163.172.138.186/hls/stream.m3u8
-
-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana  Entertm"  group-title="Persian",Persiana Entertm
+http://51.210.199.14/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana Nostalgia"  group-title="Persian",Persiana Nostalgia
-http://163.172.128.92/hls/stream.m3u8
+http://51.210.199.20/hls/stream.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana Billboard"  group-title="Persian",Persiana Billboard
-http://51.15.140.134/hls/stream.m3u8
+http://51.210.199.10/hls/stream.m3u8
 
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana Comedy"  group-title="Persian",Persiana Comedy
-http://51.158.116.146/hls/stream.m3u8
-
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAHopsbypcC_4Us--BEY6_0Hv7KfOGgEywLGg=s900-mo-c-c0xffffffff-rj-k-no" tvg-name="Persiana Plus"  group-title="Persian",Persiana Plus
-http://51.158.106.105/hls/stream.m3u8
+http://51.210.199.27/hls/stream.m3u8
 
 
 
