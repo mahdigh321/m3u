@@ -201,7 +201,7 @@ https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
-https://cdn1live.irib.ir/live-channels/smil:tv3/chunklist_b307200_slFa.m3u8?s=0xVr_tFffA-6st0pR3TP1w&t=1604329363
+https://nrpus.bozztv.com/36bay2/gin/irib3-in/video.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" tvg-name="IRIB TV4"  group-title="IRIB",IRIB TV4
@@ -262,5 +262,9 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&re
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" tvg-name="FRANCE NEWS"  group-title="NEWS",FRANCE NEWS
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo=".." tvg-name="Bein"  group-title="NEWS",Bein
+https://r6---sn-xupn5a5u5x-4wge6.googlevideo.com/videoplayback?expire=1608401559&ei=N-7dX-aAKrWNmLAP77KdsAc&ip=176.204.122.212&id=qx_HXGbApdA.1&itag=134&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=qw&mm=44%2C29&mn=sn-xupn5a5u5x-4wge6%2Csn-xupn5a5u-4wgee&ms=lva%2Crdu&mv=m&mvi=2&pl=20&nh=%2CEAM&initcwndbps=765000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=ghm5BT0gKACQcLuAr4Km_DAF&gir=yes&mt=1608379703&fvip=2&keepalive=yes&c=WEB_EMBEDDED_PLAYER&n=LDt9gZFoyZT9Qg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAPNuwUOlZSO4r2Eao4IYmrSYJuErsnvUD0TOVWcHiOBEAiEAxq7nf5uscuSZEhITeWfXYACI9c7WLFPpHY4_ZS8FW2g%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cnh%2Cinitcwndbps&lsig=AG3C_xAwRQIhANGkTF-OmllUv7ESgubA_ur-vkUSMHFGd6DuFlKuHdKdAiA7dIM1Cf9d_DjCY4LyIhlv-aZ8uNx0_eElQFdh0AyosQ%3D%3D&alr=yes&cpn=LNu90RNq3sUucGSO&cver=20201217&ir=1&rr=12&sq=967&rn=17&rbuf=22024
 
 
