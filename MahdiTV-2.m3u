@@ -112,10 +112,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSujZgJvEFAq1jRi6FSmIa2vziFJw2p9lR73idV18qVjF6Sfez&usqp=CAU" tvg-name="GEM USA HD"  group-title="Persian",GEM USA HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist_w1504559699.m3u8
-
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/852.png" tvg-name="GEM DRAMA HD"  group-title="Persian",GEM DRAMA HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.m3u8
 
@@ -134,8 +130,11 @@ https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM MAXX HD"  group-title="Persian",GEM MAXX HD
-https://d2e40kvaojifd6.cloudfront.net/stream/maxx/chunklist_w874190211.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM Food"  group-title="Persian",GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM Life"  group-title="Persian",GEM Life
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u8
 
 
 
