@@ -7,15 +7,10 @@ https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.mbc.net/default/mediaObject/photos-2018/October/3-10/MBC-PERSIA-Logo_main/original/5e51f4cd538a79370cea6fc01b9d897119add653/MBC-PERSIA-Logo_main.jpg" tvg-name="MBCPersia"  group-title="Persian",MBC Persia
-https://soltaan.com/iptv/mbcpersiahd.m3u8
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8?soltaan.com_mbcpersia.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.brTHXXtaHzK7xHV1YobV7gHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AvAFamily"  group-title="Persian",Ava Family
-http://51.15.115.123/hls/stream.m3u8
 
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.brTHXXtaHzK7xHV1YobV7gHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AvA SERIES"  group-title="Persian",Ava SERIES
-http://163.172.131.60/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/The_Box_logo.svg/1200px-The_Box_logo.svg.png" tvg-name="24BoxTv"  group-title="Persian",24 Box Tv
