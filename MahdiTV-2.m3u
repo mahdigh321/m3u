@@ -153,16 +153,11 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1707454974_b2892000.m3u8
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w477218630_b1992000.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/pmc-music-hd-tv.png" tvg-name="PMC"  group-title="Music",PMC Music
-https://soltaan.com/iptv/pmc.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_qonn-mNtoWrv8KQQFdcKkkW-PELF84jxDIESyykdQjgQGSi9&usqp=CAU" tvg-name="Navahang"  group-title="Music",NAVAHANG HD
 http://163.172.134.85/hls/stream.m3u8
 
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Caltex_Records_logo.png" tvg-name="Caltex TV"  group-title="Music",Caltex TV
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 
 
@@ -245,6 +240,3 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&re
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" tvg-name="FRANCE NEWS"  group-title="NEWS",FRANCE NEWS
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo=".." tvg-name="Bein"  group-title="NEWS",Bein
-https://r6---sn-xupn5a5u5x-4wge6.googlevideo.com/videoplayback?expire=1608401766&ei=Bu_dX92LNJrY1gb43pqYDQ&ip=176.204.122.212&id=qx_HXGbApdA.1&itag=134&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=qw&mm=44%2C29&mn=sn-xupn5a5u5x-4wge6%2Csn-xupn5a5u-4wgee&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=20&nh=%2CEAM&initcwndbps=765000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=qWMPC1ouVJcPtNiYiwNdH3IF&gir=yes&mt=1608379703&fvip=2&keepalive=yes&c=WEB_EMBEDDED_PLAYER&n=sv6rvtXdPeyCqw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhALyWAB9KGo4w9gkX5-vNdtI5S0ACXJUNBT96FQqORrEyAiEA5iwsdVv0hPSSh3BsZd0CDXS90Y0kFFwsu08blTM0MjQ%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cnh%2Cinitcwndbps&lsig=AG3C_xAwRgIhAPTgQtp02hoVoHTaB4rexxueYD1eCn3Rh74SA2SgIjh1AiEAgtvNiQAjhqSJIj9pkTspwWd80pLvyhZ8_OWbdjXn10M%3D&alr=yes&cpn=eoDHJEAdBxLDgURL&cver=20201217&ir=1&rr=12&sq=1006&rn=13&rbuf=19687
