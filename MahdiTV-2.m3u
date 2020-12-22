@@ -56,6 +56,10 @@ http://51.210.199.36/hls/stream.m3u8
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.WtSI2KwE4LBBThq49lVe2AHaHa&pid=Api&P=0&w=300&h=300" tvg-name="MAAH TV"  group-title="Persian",MAAH TV
+http://51.210.199.33/hls/stream.m3u8
+
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.YHJytT22p8zD4Tpr6DZ7MgAAAA&pid=Api&P=0&w=248&h=166" tvg-name="ITN"  group-title="Persian",ITN
 http://51.210.199.31/hls/stream.m3u8
