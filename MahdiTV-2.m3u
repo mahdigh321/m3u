@@ -37,9 +37,6 @@ http://51.210.199.9/hls/stream.m3u8
 
 
 
-
-
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.seX-HlZsg2iZcMqk9483tAHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AMG TV"  group-title="Persian",AMG TV
 https://nl.live21.ir/hls2/AMG_src.m3u8
 
@@ -58,6 +55,10 @@ https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.WtSI2KwE4LBBThq49lVe2AHaHa&pid=Api&P=0&w=300&h=300" tvg-name="MAAH TV"  group-title="Persian",MAAH TV
 http://51.210.199.33/hls/stream.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://static10.tgstat.ru/channels/_0/36/3641c1b5f5f40f4ed2c8f95d619e1df9.jpg" tvg-name="INFINITY CHANNEL"  group-title="Persian",INFINITY CHANNEL
+http://51.210.199.41/hls/stream.m3u8
 
 
 
