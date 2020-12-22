@@ -56,7 +56,7 @@ http://51.210.199.15/hls/stream.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pl.kingofsat.net/jpg/persianajunior.jpg" tvg-name="Persiana  Junior"  group-title="Persian",Persiana Junior
 http://51.210.199.18/hls/stream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://pl.kingofsat.net/jpg/persianajunior.jpg" tvg-name="Persiana  Junior"  group-title="Persian",Persiana Junior
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/persiana-cinema.jpg" tvg-name="Persiana  Junior"  group-title="Persian",Persiana Junior
 http://51.210.199.12/hls/stream.m3u8
 
 
