@@ -62,9 +62,6 @@ http://51.210.199.41/hls/stream.m3u8
 
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.YHJytT22p8zD4Tpr6DZ7MgAAAA&pid=Api&P=0&w=248&h=166" tvg-name="ITN"  group-title="Persian",ITN
-http://51.210.199.31/hls/stream.m3u8
-
 
 
 
@@ -193,8 +190,11 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w477218630_b1992000.m3u8
 http://163.172.134.85/hls/stream.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.YHJytT22p8zD4Tpr6DZ7MgAAAA&pid=Api&P=0&w=248&h=166" tvg-name="ITN"  group-title="Persian",ITN
+http://51.210.199.31/hls/stream.m3u8
 
-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" tvg-name="TAPESH 2"  group-title="Persian",TAPESH 2
+http://51.210.199.41/hls/stream.m3u8
 
 
 
