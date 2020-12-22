@@ -37,8 +37,7 @@ http://51.210.199.9/hls/stream.m3u8
 
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="EBC1"  group-title="Persian",EBC1
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w1449070321.m3u8
+
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.seX-HlZsg2iZcMqk9483tAHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AMG TV"  group-title="Persian",AMG TV
@@ -55,6 +54,14 @@ http://51.210.199.36/hls/stream.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livefarsi.com/uploads/tv_image/bazme-asheghan-tv.jpg" tvg-name="Bazm TV"  group-title="Persian",Bazm TV
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u8
+
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.YHJytT22p8zD4Tpr6DZ7MgAAAA&pid=Api&P=0&w=248&h=166" tvg-name="ITN"  group-title="Persian",ITN
+http://51.210.199.31/hls/stream.m3u8
+
+
+
 
 
 
@@ -110,10 +117,6 @@ http://51.210.199.27/hls/stream.m3u8
 
 
 
-
-
-
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
 
@@ -165,6 +168,10 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Music",GEM MIFA HD
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="EBC1"  group-title="Persian",EBC1
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w1449070321.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54530d.png" tvg-name="RadioJavan"  group-title="Music",Radio Javan HD
