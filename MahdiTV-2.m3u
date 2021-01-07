@@ -250,14 +250,14 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/10/BBC-arabic.png?ssl=1" tvg-name="BBC Arabic"  group-title="NEWS",BBC Arabic
 http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/10/BBC-arabic.png?ssl=1" tvg-name="BBC UK"  group-title="NEWS",BBC UK
-http://176.10.117.3:5000/play/a035
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png" tvg-name="BBC UK"  group-title="NEWS",BBC UK
+http://51.52.156.22:8888/http/004
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w300" tvg-name="Al Hadath"  group-title="NEWS",Al Hadath
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://saifahmadkhan.files.wordpress.com/2013/09/al-jazeera1.jpg" tvg-name="Al Hadath"  group-title="NEWS",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8?
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="--" tvg-name="Jazeera"  group-title="NEWS",Jazeera
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EZf3hoIb6YliIw7_5kMjIgHaIO&pid=Api&P=0&w=300&h=300" tvg-name="Jazeera"  group-title="NEWS",Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="--" tvg-name="Jazeera Arabic"  group-title="NEWS",Jazeera Arabic
@@ -280,5 +280,5 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&re
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" tvg-name="FRANCE NEWS"  group-title="NEWS",FRANCE NEWS
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="..." tvg-name="SKY NEWS"  group-title="NEWS",SKY NEWS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/250px-Sky_News_2015_Logo.svg.png" tvg-name="SKY NEWS"  group-title="NEWS",SKY NEWS
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/01.m3u8
