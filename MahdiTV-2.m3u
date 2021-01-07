@@ -254,13 +254,13 @@ http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_ara
 http://51.52.156.22:8888/http/004
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.G41OvI0IsUVME_bSb22xiQAAAA&pid=Api&P=0&w=300&h=300" tvg-name="Al Hadath"  group-title="NEWS",Al Hadath
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w300" tvg-name="Al Hadath"  group-title="NEWS",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8?
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EZf3hoIb6YliIw7_5kMjIgHaIO&pid=Api&P=0&w=300&h=300" tvg-name="Jazeera"  group-title="NEWS",Jazeera
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EZf3hoIb6YliIw7_5kMjIgHaIO&pid=Api&P=0&w=300&h=300" tvg-name="Jazeera"  group-title="NEWS",Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://saifahmadkhan.files.wordpress.com/2013/09/al-jazeera1.jpg" tvg-name="Jazeera Arabic"  group-title="NEWS",Jazeera Arabic
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.G41OvI0IsUVME_bSb22xiQAAAA&pid=Api&P=0&w=300&h=300" tvg-name="Jazeera Arabic"  group-title="NEWS",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2012/08/bloombergtelevision.gif" tvg-name="Bloomberg TV"  group-title="NEWS",Bloomberg TV
