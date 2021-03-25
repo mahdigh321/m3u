@@ -28,6 +28,10 @@ http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a
 http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.H8TsztnqjJaqdzqAmTHX8wHaEK&pid=Api&P=0&w=303&h=171"  group-title="Persian",FX HD
+http://51.210.199.52/hls/stream.m3u8
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vox-1.png"  group-title="Persian",VOX TV1
 http://51.210.199.8/hls/stream.m3u8
 
@@ -57,13 +61,13 @@ https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u
 http://51.210.199.33/hls/stream.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://static10.tgstat.ru/channels/_0/36/3641c1b5f5f40f4ed2c8f95d619e1df9.jpg" tvg-name="INFINITY CHANNEL"  group-title="Persian",INFINITY CHANNEL
-http://51.210.199.41/hls/stream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/persiana-cinema.jpg" tvg-name="Persiana +"  group-title="Persian",Persiana +
+http://51.210.199.14/hls/stream.m3u8
 
 
-
-
-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/persiana-cinema.jpg" tvg-name="Persiana +HD"  group-title="Persian",Persiana +HD
+http://51.210.199.21/hls/stream.m3u8
 
 
 
@@ -170,6 +174,10 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Music",GEM MIFA HD
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="4 Turky"  group-title="Persian",4 Turky Music
+http://51.210.199.30/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="EBC1"  group-title="Persian",EBC1
