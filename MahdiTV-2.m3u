@@ -195,7 +195,7 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w477218630_b1992000.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_qonn-mNtoWrv8KQQFdcKkkW-PELF84jxDIESyykdQjgQGSi9&usqp=CAU" tvg-name="Navahang"  group-title="Music",NAVAHANG HD
-http://163.172.134.85/hls/stream.m3u8
+http://51.210.227.130/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.YHJytT22p8zD4Tpr6DZ7MgAAAA&pid=Api&P=0&w=248&h=166" tvg-name="ITN"  group-title="Persian",ITN
@@ -209,15 +209,15 @@ http://51.210.199.44/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://bozz.bebinhd.com/live/tv01/chunks.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://bozz.bebinhd.com/live/tv02/chunks.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
-https://live.persianleague.com/live/irib3-221354/chunks.m3u8
+https://ss.90minlive.online/live/irirb3-h/chunks.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
 https://nrpus.bozztv.com/36bay2/gin/irib3-in/mono.m3u8?soltaan.com-IRIB3.m3u8
@@ -228,11 +228,11 @@ https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" tvg-name="IRIB TV5"  group-title="IRIB",IRIB TV5
-https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://bozz.bebinhd.com/live/tehran0/chunks.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIB Nasim TV"  group-title="IRIB",Nasim TV
-https://live.farsiland.com/nasim/stream.m3u8
+https://bozz.bebinhd.com/live/nasim0/chunks.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JPl0U6NgEkxBqVQ6jYcRcwAAAA&pid=Api&P=0&w=300&h=300" tvg-name="IRIB Amozesh"  group-title="IRIB",Amozesh
