@@ -218,7 +218,7 @@ https://bozz.bebinhd.com/live/tv01/chunks.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
-https://sdm.telewebion.com/live/tv3/tv3-480p/index.m3u8
+https://bozz.bebinhd.com/live/tv02/chunks.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
