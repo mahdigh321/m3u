@@ -286,7 +286,7 @@ http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" tvg-name="CNN"  group-title="NEWS",CNN
-http://persik.by/stream/6606/411484/10479.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s900-c-k-no/photo.jpg" tvg-name="CBS NEWS"  group-title="NEWS",CBS NEWS
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
