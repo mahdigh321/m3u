@@ -177,6 +177,9 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Music",GEM MIFA HD
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.2YBJntEo1uPbr7ygvJsMEQHaEL&pid=Api&P=0&w=298&h=169" tvg-name="PMC"  group-title="Music",PMC
+https://hls.pmchd.live/hls/stream.m3u8?soltaan.com_pmc.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="4 Turky"  group-title="Persian",4 Turky Music
 http://51.210.199.30/hls/stream.m3u8
