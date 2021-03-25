@@ -32,6 +32,10 @@ http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v
 http://51.210.199.52/hls/stream.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.H8TsztnqjJaqdzqAmTHX8wHaEK&pid=Api&P=0&w=303&h=171"  group-title="Persian",SCI FI HD
+http://51.210.227.134/hls/stream.m3u8
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vox-1.png"  group-title="Persian",VOX TV1
 http://51.210.199.8/hls/stream.m3u8
 
