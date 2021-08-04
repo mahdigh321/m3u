@@ -295,7 +295,7 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" tvg-name="FRANCE NEWS"  group-title="NEWS",FRANCE NEWS
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-uYnyeu0wFpQ/AAAAAAAAAAI/AAAAAAAAAAA/VU2Ct3J_ZQw/s900-c-k-no/photo.jpg" tvg-name="SKY NEWS"  group-title="NEWS",SKY NEWS
 https://youtu.be/9Auq9mYxFEE
