@@ -262,7 +262,7 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/10/BBC-arabic.png?ssl=1" tvg-name="BBC Arabic"  group-title="NEWS",BBC Arabic
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png" tvg-name="BBC UK"  group-title="NEWS",BBC UK
 http://51.52.156.22:8888/http/004
