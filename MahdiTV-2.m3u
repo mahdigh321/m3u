@@ -233,7 +233,7 @@ https://s-cloud.irib.ir/live/tv4/480.m3u8?Soltaan.com_irib4.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" tvg-name="IRIB TV5"  group-title="IRIB",IRIB TV5
-https://bozz.bebinhd.com/live/tehran0/chunks.m3u8
+https://s-cloud.irib.ir/live/tv5/480.m3u8?Soltaan.com_irib5_Tehran.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIB Nasim TV"  group-title="IRIB",Nasim TV
