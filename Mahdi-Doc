@@ -1,0 +1,124 @@
+#EXTM3U
+#EXTINF:1 ,A&E Crime 360 (1080p)  (English)
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Al Jazeera Documentary (1080p) [Geo-blocked]  (Arabic)
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:1 ,AMC Absolute Reality  (English)
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,CCTV中国中央电视台-9 纪录  (Chinese;Mandarin Chinese)
+http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:1 ,CGTN Documentary  (English)
+http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
+#EXTINF:1 ,Court TV  (English)
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)
+#EXTINF:1 ,Crime 360  (English)
+https://aenetworks-crime360-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Crime 360 (720p)  (English)
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Crime Time  (English)
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:1 ,Danger TV (720p)  (English)
+https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Docurama (1080p) [Geo-blocked]  (English)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:1 ,Docurama (1080p)  (English)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
+#EXTINF:1 ,Docurama  (English)
+https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:1 ,Docurama (STIRR) (1080p)  (English)
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:1 ,Forensics Files (STIRR) (720p)  (English)
+https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+#EXTINF:1 ,HDL  (Russian)
+http://89.106.234.3:80/hdl_34_35.m3u8
+#EXTINF:1 ,History Channel (Best of)  (English)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:1 ,La 2 (720p)  (Spanish)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:1 ,Law & Crime (720p)  (English)
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:1 ,Law & Crime Network (720p)  (English)
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Law And Crime Network (720p)  (English)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:1 ,Magellan TV (720p)  (English)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:1 ,Monarch  (English)
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
+#EXTINF:1 ,National Geographic Abu Dhabi  (Arabic)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:1 ,National Geographic Wild Russia  (Russian)
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:1 ,NewTV未来电视 精品记录  (Chinese;Mandarin Chinese)
+http://117.148.187.37/PLTV/88888888/224/3221226763/index.m3u8
+#EXTINF:1 ,Polsat Doku (1080p)  (Polish)
+http://91.218.60.3:8001/play/a04o
+#EXTINF:1 ,Reelz  (English)
+https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
+#EXTINF:1 ,Reelz Channel (XUMO)  (English)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:1 ,RT Documentary (720p)  (English;Russian)
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:1 ,RT Documentary (480p)  (English;Russian)
+https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
+#EXTINF:1 ,RTД (720p)  (Russian)
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:1 ,RTД (1080p)  (Russian)
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:1 ,Sightline  ()
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+#EXTINF:1 ,STIRR Biographies (720p)  (English)
+https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
+#EXTINF:1 ,Sword and Shield  (English)
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8
+#EXTINF:1 ,The Monarch Channel (720p)  (English)
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:1 ,Unidentified  (English)
+https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
+#EXTINF:1 ,Viasat History Russia  (Russian)
+https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
+#EXTINF:1 ,Weather Gone Viral  ()
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+
+#EXTINF:1 ,Beach TV (CSULB) (720p)  (English)
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:1 ,CCTV中国中央电视台-10 科教  (Chinese;Mandarin Chinese)
+http://117.169.120.140:8080/live/cctv-10/.m3u8
+#EXTINF:1 ,Cloudflare TV  (English)
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:1 ,Futura  (Portuguese)
+https://canal1.proxy.tokplay.com.br/videos/event9/auto.m3u8
+#EXTINF:1 ,Futura [Not 24/7]  (Portuguese)
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:1 ,NASA TV (720p)  (English)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:1 ,NASA TV (720p) [Not 24/7]  (English)
+https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:1 ,NASA TV (504p)  (English)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:1 ,NASA TV Media (720p)  (English)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:1 ,NASA TV Public (720p)  (English)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:1 ,Now You Know (Bumblebee)  (English)
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+#EXTINF:1 ,Oman TV Cultural (1080p)  (Arabic)
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:1 ,Santa Cecilia TV (288p)  (Portuguese)
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:1 ,Syrian Education TV (270p)  (Arabic)
+http://82.137.248.16:1935/SEdu/stream19042021/playlist.m3u8
+#EXTINF:1 ,The 360 Channel  (English)
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:1 ,TV Escola  (Portuguese)
+https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)
+#EXTINF:1 ,TV Mackenzie (480p)  (Portuguese)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:1 ,TV UFG (720p)  (Portuguese)
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:1 ,UCTV - University of California (720p)  (English)
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:1 ,UniTV Porto Alegre  (Portuguese)
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:1 ,Yemen Shabab  (Arabic)
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
