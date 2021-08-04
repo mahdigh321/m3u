@@ -282,7 +282,7 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.twofour54.com/en/wp-content/uploads/sites/5/2018/05/euronews-logo-2.jpg" tvg-name="Euronews"  group-title="NEWS",Euronews
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" tvg-name="CNN"  group-title="NEWS",CNN
