@@ -214,7 +214,7 @@ http://51.210.199.44/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
-https://bozz.bebinhd.com/live/tv01/chunks.m3u8
+https://s-cloud.irib.ir/live/tv1/720.m3u8?Soltaan.com_irib1.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
