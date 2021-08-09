@@ -65,6 +65,8 @@ https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u
 http://51.210.199.33/hls/stream.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://" tvg-name="Persian Film TV"  group-title="Persian",Persian Film
+http://51.210.227.135/hls/stream.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/persiana-cinema.jpg" tvg-name="Persiana +"  group-title="Persian",Persiana +
 http://51.210.199.13/hls/stream.m3u8
