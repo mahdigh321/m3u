@@ -20,13 +20,6 @@ http://51.210.199.4/hls/stream.m3u8
 
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1059104731128311808/tFQEBnAb.jpg" tvg-name="Cine Film"  group-title="Persian",Cine Film
-http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-series-us.png" tvg-name="Cine Series"  group-title="Persian",Cine Series
-http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.H8TsztnqjJaqdzqAmTHX8wHaEK&pid=Api&P=0&w=303&h=171"  group-title="Persian",FX HD
 http://51.210.199.52/hls/stream.m3u8
@@ -67,6 +60,11 @@ http://51.210.199.33/hls/stream.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://" tvg-name="Persian Film TV"  group-title="Persian",Persian Film
 http://51.210.227.135/hls/stream.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://" tvg-name="SL2"  group-title="Persian",SL2
+http://51.210.199.2/hls/stream.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/persiana-cinema.jpg" tvg-name="Persiana +"  group-title="Persian",Persiana +
 http://51.210.199.13/hls/stream.m3u8
