@@ -62,8 +62,8 @@ http://51.210.199.33/hls/stream.m3u8
 http://51.210.227.135/hls/stream.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://" tvg-name="SL2"  group-title="Persian",SL2
-http://51.210.199.2/hls/stream.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://" tvg-name="Film"  group-title="Persian",Film
+http://51.210.199.57/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/persiana-cinema.jpg" tvg-name="Persiana +"  group-title="Persian",Persiana +
