@@ -21,6 +21,10 @@ http://51.210.199.4/hls/stream.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1059104731128311808/tFQEBnAb.jpg" tvg-name="Cine Film"  group-title="Persian",Cine Film
 https://glwizhstb39.glwiz.com/CineFilm_HD.m3u8?user=sgls76551&session=36662f97ba621983fd083e057b17c4acfb91255360f8b82e48a15f218f05d46034dae1b2cdfea8a9&group_id=76551
 
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1059104731128311808/tFQEBnAb.jpg" tvg-name="Cine Film"  group-title="Persian",Cine Film
+https://gintna100.tulix.tv/gin_live/cine-film/a9eba4ce2e8af3265dec516480dc67cb/616d7792/index.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-series-us.png" tvg-name="Cine Series"  group-title="Persian",Cine Series
 https://gintna100.tulix.tv/gin_live/cine-series/214fc8a5c65d5840e8c06c490390287d/616d74e9/index.m3u8
 
