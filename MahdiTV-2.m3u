@@ -10,6 +10,10 @@ https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8?soltaan.com_mbcpersia.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="" tvg-name="One Persian"  group-title="Persian",One Persian
+https://1-215-11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlength=5&shift=0&v=2
+
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.brTHXXtaHzK7xHV1YobV7gHaHa&pid=Api&P=0&w=300&h=300" tvg-name="AvAFamily"  group-title="Persian",Ava Family
 http://51.210.199.5/hls/stream.m3u8
