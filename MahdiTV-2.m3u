@@ -231,7 +231,7 @@ http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
-https://s-cloud.irib.ir/live/tv1/720.m3u8?Soltaan.com_irib1.m3u8
+https://sdw.telewebion.com/live/tv1/tv1-720p/index.m3u8?uid=5845-1634548451.336-31.218.128.108-476?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE4LzIwMjEgOToxNDo3IEFNJmhhc2hfdmFsdWU9OUp0ZXlCN2hGSzR6VmYwc1BhSDJxdz09JnZhbGlkbWludXRlcz02MDAw
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 https://sdw.telewebion.com/live/tv1/tv1-240p/index.m3u8?uid=5864-1634542781.661-31.218.128.108-149?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTYvMTYvMjAyMSA5OjQzOjMwIEFNJmhhc2hfdmFsdWU9QzA0UXNiYXA5YTBIWGN0T0x6ZWFoZz09JnZhbGlkbWludXRlcz02MDAw
