@@ -65,6 +65,10 @@ https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1130529884.m3u
 http://51.210.199.33/hls/stream.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="S TV"  group-title="Persian",S TV
+http://51.210.199.30/hls/stream.m3u8
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://" tvg-name="Persian Film TV"  group-title="Persian",Persian Film
 http://51.210.227.135/hls/stream.m3u8
 
@@ -187,9 +191,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.2YBJntEo1uPbr7ygvJsMEQHaEL&pid=Api&P=0&w=298&h=169" tvg-name="PMC"  group-title="Music",PMC
 http://51.210.199.29/hls/stream.m3u8
 
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="4 Turky"  group-title="Persian",4 Turky Music
-http://51.210.199.30/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="EBC1"  group-title="Persian",EBC1
