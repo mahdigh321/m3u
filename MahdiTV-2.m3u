@@ -222,8 +222,6 @@ http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 
 
 
-
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 https://s-cloud.irib.ir/live/tv1/720.m3u8?Soltaan.com_irib1.m3u8
 
@@ -260,15 +258,6 @@ https://sdw.telewebion.com/live/tehran/tehran_dvr-576p/index.m3u8?uid=5903-16345
 https://bozz.bebinhd.com/live/nasim0/chunks.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.JPl0U6NgEkxBqVQ6jYcRcwAAAA&pid=Api&P=0&w=300&h=300" tvg-name="IRIB Amozesh"  group-title="IRIB",Amozesh
-https://ch.iptvmate.net/bd9f6f65d7dcb1e623088d33adb79b3b.m3u8
-
-
-
-
-
-
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.LN75DdyOHRCrj3v6cYWMAgHaHa&pid=Api&P=0&w=300&h=300" tvg-name="BBC Farsi"  group-title="NEWS",BBC Farsi
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 
@@ -281,6 +270,7 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/10/BBC-arabic.png?ssl=1" tvg-name="BBC Arabic"  group-title="NEWS",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png" tvg-name="BBC UK"  group-title="NEWS",BBC UK
 http://51.52.156.22:8888/http/004
 
@@ -288,11 +278,14 @@ http://51.52.156.22:8888/http/004
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w300" tvg-name="Al Hadath"  group-title="NEWS",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8?
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EZf3hoIb6YliIw7_5kMjIgHaIO&pid=Api&P=0&w=300&h=300" tvg-name="Jazeera"  group-title="NEWS",Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.q6HgB5R0vm06PIrhJnabUgHaEK&pid=Api&P=0&w=300&h=169" tvg-name="Jazeera Arabic"  group-title="NEWS",Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/04.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2012/08/bloombergtelevision.gif" tvg-name="Bloomberg TV"  group-title="NEWS",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -304,6 +297,7 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" tvg-name="CNN"  group-title="NEWS",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png"  group-title="NEWS",Fox News
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
