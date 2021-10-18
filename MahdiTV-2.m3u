@@ -234,6 +234,9 @@ https://sdw.telewebion.com/live/tv1/tv1-240p/index.m3u8?uid=5864-1634542781.661-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
 https://s-cloud.irib.ir/live/tv2/720.m3u8?Soltaan.com_irib2.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
+https://sdw.telewebion.com/live/tv2/tv2_dvr-576p/index.m3u8?uid=5903-1634543308.237-31.218.128.108-181?wmsAuthSign=c40853c4a1ff6031a0e1b13ec1e51f38&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE4LzIwMjEgNzo0MToyMSBBTSZoYXNoX3ZhbHVlPTRldndhWEo5bnhBeE9ra3NxVlNBYVE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
 https://ss.90minlive.online/live/irirb3-h/chunks.m3u8
