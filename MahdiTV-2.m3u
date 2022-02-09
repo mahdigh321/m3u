@@ -143,7 +143,7 @@ http://51.210.199.27/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png" tvg-name="GEM TV HD"  group-title="Persian",GEM TV HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
+https://stream-live.gemonline.tv/live/gem/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/gem-series.jpg" tvg-name="GEM SERIES HD"  group-title="Persian",GEM SERIES HD
