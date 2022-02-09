@@ -159,7 +159,7 @@ https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3Z0PaNr6Kok2MxVY78UInyeZXrfIXK7xuGB5Z_9Hs3t3KBu-o&usqp=CAU" tvg-name="GEM KIDS HD"  group-title="Persian",GEM KIDS HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
+https://stream-live.gemonline.tv/live/gemkids/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg" tvg-name="GEM JUNIOR HD"  group-title="Persian",GEM JUNIOR HD
