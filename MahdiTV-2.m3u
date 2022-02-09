@@ -250,7 +250,7 @@ https://sdw.telewebion.com/live/tv2/tv2_dvr-576p/index.m3u8?uid=5903-1634543308.
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
-https://ss.90minlive.online/live/irirb3-h/chunks.m3u8
+https://s-cloud.irib.ir/securelive3/tv3hd/1080p.m3u8?s=0KsN_xqQz0FWAorbRLRgDw&t=1644424285
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
 https://livetv.farsiland.com/tv3-1k/tv3-1k.m3u8
