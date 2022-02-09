@@ -74,6 +74,9 @@ http://51.210.199.33/hls/stream.m3u8
 http://51.210.199.30/hls/stream.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="me 2" tvg-name="Me 2"  group-title="Persian",ME 2 
+http://51.210.227.151/hls/stream.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://" tvg-name="Persian Film TV"  group-title="Persian",Persian Film
 http://51.210.227.135/hls/stream.m3u8
 
