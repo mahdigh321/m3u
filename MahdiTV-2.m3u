@@ -59,7 +59,7 @@ http://vps.parsiland.net/hls/ParsiLand.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/oxir-tv.jpg" tvg-name="OXIR TV"  group-title="Persian",OXIR TV
-http://51.210.199.36/hls/stream.m3u8
+http://51.254.225.26/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.livefarsi.com/uploads/tv_image/bazme-asheghan-tv.jpg" tvg-name="Bazm TV"  group-title="Persian",Bazm TV
