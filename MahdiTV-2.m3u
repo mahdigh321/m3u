@@ -271,7 +271,7 @@ https://sdw.telewebion.com/live/tehran/tehran_dvr-576p/index.m3u8?uid=5903-16345
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIB Nasim TV"  group-title="IRIB",Nasim TV
-https://bozz.bebinhd.com/live/nasim0/chunks.m3u8
+https://s-cloud.irib.ir/securelive3/nasimhd/324p.m3u8?s=dgtBUV90lwYy-GA6bX1r-Q&t=1644424199
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.LN75DdyOHRCrj3v6cYWMAgHaHa&pid=Api&P=0&w=300&h=300" tvg-name="BBC Farsi"  group-title="NEWS",BBC Farsi
