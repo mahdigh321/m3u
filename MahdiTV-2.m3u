@@ -199,9 +199,12 @@ https://glwizhstb47.glwiz.com/GemLife1_HD.m3u8?user=sgls76551&session=efe36ba65b
 
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.2YBJntEo1uPbr7ygvJsMEQHaEL&pid=Api&P=0&w=298&h=169" tvg-name="PMC"  group-title="Music",PMC
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.2YBJntEo1uPbr7ygvJsMEQHaEL&pid=Api&P=0&w=298&h=169" tvg-name="PMC ROYAL"  group-title="Music",PMC ROYAL
 http://51.210.199.29/hls/stream.m3u8
 
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.2YBJntEo1uPbr7ygvJsMEQHaEL&pid=Api&P=0&w=298&h=169" tvg-name="PMC "  group-title="Music",PMC
+https://hls.pmchd.live/hls/stream.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://jsat.tv/gallery/var/resizes/TV%20Logos/ebc_1.png?m=1458730042" tvg-name="EBC1"  group-title="Persian",EBC1
