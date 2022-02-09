@@ -146,12 +146,18 @@ http://51.210.199.27/hls/stream.m3u8
 https://stream-live.gemonline.tv/live/gem/index.m3u8
 
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://purplemass.com/roku/images/Entertainment_GEM_TV_HD.png" tvg-name="GEM FILM"  group-title="Persian",GEM FILM
+https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+
+
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.livefarsi.com/uploads/tv_image/gem-series.jpg" tvg-name="GEM SERIES HD"  group-title="Persian",GEM SERIES HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m3u8
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1SUg41qAx4EpKu2p6LqTJcF4kV1SiLHwVVqtuxEMxhQKw9mAE&usqp=CAU" tvg-name="GEM CLASSIC HD"  group-title="Persian",GEM CLASSIC HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist_960x540_2000k.m3u8
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3Z0PaNr6Kok2MxVY78UInyeZXrfIXK7xuGB5Z_9Hs3t3KBu-o&usqp=CAU" tvg-name="GEM KIDS HD"  group-title="Persian",GEM KIDS HD
@@ -159,38 +165,39 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg" tvg-name="GEM JUNIOR HD"  group-title="Persian",GEM JUNIOR HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
+
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/852.png" tvg-name="GEM DRAMA HD"  group-title="Persian",GEM DRAMA HD
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.m3u8
+https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.pw0_4BSILeEHbJ6q0WHnugHaEK&pid=Api&P=0&w=305&h=172" tvg-name="GEM RIVER HD"  group-title="Persian",GEM RIVER HD
-https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_960x540_2000k.m3u8
+https://stream-live.gemonline.tv/live/river/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.giniko.com/logos/190x110/363.png" tvg-name="GEM RUBIX HD"  group-title="Persian",GEM RUBIX HD
-https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_1920x1080_4500k.m3u8
+https://glwizhstb37.glwiz.com/RUBIX_HD.m3u8?user=sgls76551&session=b3e91c0adc5597b880538f1c2215cdc185bdc9730ceddb337a1c1be8a3ae8fe5b57224c84339d013&group_id=76551
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.VIshdInqLafc3-5USqEtxwHaHa&pid=Api&P=0&w=300&h=300" tvg-name="ONYX TV HD"  group-title="Persian",ONYX TV HD
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
+https://glwizhstb59.glwiz.com/ONYX_HD.m3u8?user=sgls76551&session=947b99ff00c761aa20eba40d02357f5d0cfea7b69c988088c26618c4f51f22a82954b840755761c2&group_id=76551
 
 
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM Food"  group-title="Persian",GEM Food
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
+https://stream-live.gemonline.tv/live/gemfood/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.YWbVUllEAZcyCL3zYtktKgHaF7&pid=Api&P=0&w=194&h=156" tvg-name="GEM Life"  group-title="Persian",GEM Life
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u8
+https://glwizhstb47.glwiz.com/GemLife1_HD.m3u8?user=sgls76551&session=efe36ba65b39f32ae0102a271bc0976260459e596d5a837b6c16422b596ee9c606d024fd36b3b3a5&group_id=76551
 
 
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-mifa-music-3198.jpg" tvg-name="GEM MIFA"  group-title="Music",GEM MIFA HD
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
+
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.2YBJntEo1uPbr7ygvJsMEQHaEL&pid=Api&P=0&w=298&h=169" tvg-name="PMC"  group-title="Music",PMC
 http://51.210.199.29/hls/stream.m3u8
