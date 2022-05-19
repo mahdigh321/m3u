@@ -254,17 +254,13 @@ https://cdnw.telewebion.com/tv2/live/480p/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
 https://cdnw.telewebion.com/tv3/live/480p/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
-
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" tvg-name="IRIB TV5"  group-title="IRIB",IRIB TV5
 https://gintna100.tulix.tv/gin_live/irib5/488a1003b32da9b15e82236a93c17e85/628724b8/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" tvg-name="IRIB TV5"  group-title="IRIB",IRIB TV5
-https://sdw.telewebion.com/live/tehran/tehran_dvr-576p/index.m3u8?uid=5903-1634543230.567-31.218.128.108-184?wmsAuthSign=33cda4a0d69cc14d98b38b3b2e9f9b94&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE4LzIwMjEgNzo0MjoxMiBBTSZoYXNoX3ZhbHVlPWc3VnlMbzNNMHA5ZEloc0xyekpuQlE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+https://cdnw.telewebion.com/tehran/live/480p/index.m3u8
+
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIB Nasim TV"  group-title="IRIB",Nasim TV
