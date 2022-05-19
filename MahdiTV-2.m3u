@@ -238,11 +238,14 @@ http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 https://sdw.telewebion.com/live/tv1/tv1-720p/index.m3u8?uid=5845-1634548451.336-31.218.128.108-476?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE4LzIwMjEgOToxNDo3IEFNJmhhc2hfdmFsdWU9OUp0ZXlCN2hGSzR6VmYwc1BhSDJxdz09JnZhbGlkbWludXRlcz02MDAw
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/kidvskat/images/2/2d/IRIB_TV1.png" tvg-name="IRIB TV1"  group-title="IRIB",IRIB TV1
 https://cdnw.telewebion.com/tv1/live/480p/index.m3u8
 
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
 https://cdnw.telewebion.com/tv2/live/480p/index.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/1920px-IRIB_TV2_logo.svg.png" tvg-name="IRIB TV2"  group-title="IRIB",IRIB TV2
 
@@ -257,11 +260,6 @@ https://cdnw.telewebion.com/tv3/live/480p/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IRIB_TV3_LOGO.png/1200px-IRIB_TV3_LOGO.png" tvg-name="IRIB TV3"  group-title="IRIB",IRIB TV3
 
 
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/1200px-IRIB_TV4_logo.svg.png" tvg-name="IRIB TV4"  group-title="IRIB",IRIB TV4
-https://s-cloud.irib.ir/live/tv4/480.m3u8?Soltaan.com_irib4.m3u8
-
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" tvg-name="IRIB TV5"  group-title="IRIB",IRIB TV5
 https://s-cloud.irib.ir/live/tv5/480.m3u8?Soltaan.com_irib5_Tehran.m3u8
 
@@ -271,6 +269,11 @@ https://sdw.telewebion.com/live/tehran/tehran_dvr-576p/index.m3u8?uid=5903-16345
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIB Nasim TV"  group-title="IRIB",Nasim TV
 https://play.bebinhd.com/live/nasim/chunks.m3u8?nimblesessionid=1409479&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIyIDQ6NTY6NTAgQU0maGFzaF92YWx1ZT1raDR1U0xpM3RFVjdKVTNTUk4yd0RBPT0mdmFsaWRtaW51dGVzPTU=
+
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/IRIB_Nasim_Logo.png/250px-IRIB_Nasim_Logo.png" tvg-name="IRIB Nasim TV"  group-title="IRIB",Nasim TV
+https://gintna100.tulix.tv/gin_live/iribnasim/bc66aca9bc7d488749e5a9d135004023/62872064/index.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.LN75DdyOHRCrj3v6cYWMAgHaHa&pid=Api&P=0&w=300&h=300" tvg-name="BBC Farsi"  group-title="NEWS",BBC Farsi
