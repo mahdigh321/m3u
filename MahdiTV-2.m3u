@@ -3,12 +3,9 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.manoto/icon/icon.png" tvg-name="manoto"  group-title="Persian",manoto
-https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
 
 
-
-ggggg
-https://d2rwmwucnr0d10.cloudfront.net/live_1000.m3u8
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.mbc.net/default/mediaObject/photos-2018/October/3-10/MBC-PERSIA-Logo_main/original/5e51f4cd538a79370cea6fc01b9d897119add653/MBC-PERSIA-Logo_main.jpg" tvg-name="MBCPersia"  group-title="Persian",MBC Persia
